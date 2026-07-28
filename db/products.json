@@ -1,0 +1,5429 @@
+{
+  "orders": [
+    {
+      "userId": "Wrm6jZhyDXM",
+      "items": [
+        {
+          "productId": "2",
+          "variantId": "var_1",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "NT-02",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8MFTW1PDAY8HTWBJ6W2",
+          "qty": 1
+        },
+        {
+          "productId": "7",
+          "variantId": "var_1",
+          "title": "King Size Platform Bed Frame",
+          "price": 5990000,
+          "color": "TLW Bsh",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/28/01KB4EATGWQRG6B0J5MGENH8K9",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 8312000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-02T11:10:29.852Z",
+      "id": "gH9JIGrJm00"
+    },
+    {
+      "userId": "Wrm6jZhyDXM",
+      "items": [
+        {
+          "productId": "1",
+          "variantId": "var_5",
+          "title": "Shoesy Shoe Cabinet",
+          "price": 1540000,
+          "color": "UK",
+          "image": "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVSGACRMCCJBD4VF1W2BFQ",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 1540000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-02T11:11:37.753Z",
+      "id": "yRtG4YU80FQ"
+    },
+    {
+      "userId": "fdvKUF8v4Q8",
+      "items": [
+        {
+          "productId": "2",
+          "variantId": "var_4",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "Moss 130",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVWH0JZRT30CCSXCJZ2SEH",
+          "qty": 1
+        },
+        {
+          "productId": "1",
+          "variantId": "var_4",
+          "title": "Shoesy Shoe Cabinet",
+          "price": 1540000,
+          "color": "MDV",
+          "image": "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVR7DDMXD5A5HQC1X8MQ08",
+          "qty": 2
+        }
+      ],
+      "totalPrice": 5402000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-02T11:55:30.975Z",
+      "id": "zPbtj9Quz98"
+    },
+    {
+      "userId": "4NE7ksTfJdI",
+      "items": [
+        {
+          "productId": "3",
+          "variantId": "var_1",
+          "title": "Wooden Dresser with Tri-fold Mirror",
+          "price": 1980000,
+          "color": "DSan",
+          "image": "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G0W0KJ6EG2FA7SG17M9T",
+          "qty": 1
+        },
+        {
+          "productId": "4",
+          "variantId": "var_2",
+          "title": "3-Seater Linen Sofa with Cushions",
+          "price": 5999000,
+          "color": "L.Graund",
+          "image": "https://aiko.storage.pro-data.tech/2025/10/30/01K8TK0A0Y7CNTDYEM7V9MXY3E",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 7979000,
+      "deliveryType": "pickup",
+      "pickupPointId": "n1",
+      "payment": "card",
+      "status": "pending",
+      "createdAt": "2026-05-11T20:03:20.981Z",
+      "id": "LSmlWcAdGeQ"
+    },
+    {
+      "userId": "WGOOr_lTuTs",
+      "items": [
+        {
+          "productId": "2",
+          "variantId": "var_1",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "NT-02",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8MFTW1PDAY8HTWBJ6W2",
+          "qty": 3
+        },
+        {
+          "productId": "4",
+          "variantId": "var_2",
+          "title": "3-Seater Linen Sofa with Cushions",
+          "price": 5999000,
+          "color": "L.Graund",
+          "image": "https://aiko.storage.pro-data.tech/2025/10/30/01K8TK0A0Y7CNTDYEM7V9MXY3E",
+          "qty": 1
+        },
+        {
+          "productId": "3",
+          "variantId": "var_1",
+          "title": "Wooden Dresser with Tri-fold Mirror",
+          "price": 1980000,
+          "color": "DSan",
+          "image": "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G0W0KJ6EG2FA7SG17M9T",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 14945000,
+      "deliveryType": "delivery",
+      "address": "ghj",
+      "payment": "card",
+      "status": "pending",
+      "createdAt": "2026-05-14T10:30:08.373Z",
+      "id": "NWwqccsy8GU"
+    },
+    {
+      "userId": "WGOOr_lTuTs",
+      "items": [
+        {
+          "productId": "2",
+          "variantId": "var_1",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "NT-02",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8MFTW1PDAY8HTWBJ6W2",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 2322000,
+      "deliveryType": "delivery",
+      "address": "ghj",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-14T10:48:50.041Z",
+      "id": "RGVFcN-9phw"
+    },
+    {
+      "userId": "NyNOTS3OtAw",
+      "items": [
+        {
+          "productId": "2",
+          "variantId": "var_1",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "NT-02",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8MFTW1PDAY8HTWBJ6W2",
+          "qty": 3
+        },
+        {
+          "productId": "2",
+          "variantId": "var_2",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "FOX",
+          "image": "https://aiko.storage.pro-data.tech/2026/02/19/01KHTS1BVS07ERMC8FQK9EQPV0",
+          "qty": 1
+        },
+        {
+          "productId": "4",
+          "variantId": "var_1",
+          "title": "3-Seater Linen Sofa with Cushions",
+          "price": 5999000,
+          "color": "Teddy 1",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/04/01K976NW78JTBZM66EJDKXX7EG",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 15287000,
+      "deliveryType": "pickup",
+      "pickupPointId": "n1",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-14T12:37:21.731Z",
+      "id": "lFzBjfRNyow"
+    },
+    {
+      "userId": "NyNOTS3OtAw",
+      "items": [
+        {
+          "productId": "5",
+          "variantId": "var_2",
+          "title": "Mid-Century Lounge Chair with Ottoman",
+          "price": 1800000,
+          "color": " Moss-130",
+          "image": "https://aiko.storage.pro-data.tech/2025/08/08/01K24VBVMP69KDCFTHD2F6CERE",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 1800000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-14T12:37:52.893Z",
+      "id": "ERjaFYJXe0U"
+    },
+    {
+      "userId": "bPbMTV48p_Y",
+      "items": [
+        {
+          "productId": "2",
+          "variantId": "2_var_1",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "NT-02",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8MFTW1PDAY8HTWBJ6W2",
+          "qty": 2
+        },
+        {
+          "productId": "3",
+          "variantId": "3_var_1",
+          "title": "Wooden Dresser with Tri-fold Mirror",
+          "price": 1980000,
+          "oldPrice": 2107000,
+          "discount": 6,
+          "color": "DSan",
+          "image": "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G0W0KJ6EG2FA7SG17M9T",
+          "qty": 1
+        },
+        {
+          "productId": "6",
+          "variantId": "6_var_1",
+          "title": "Round collapsible dining table",
+          "price": 2090000,
+          "oldPrice": 2390000,
+          "discount": 13,
+          "color": "7034П",
+          "image": "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRN87WJGNZA1CGX52P00Z0",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 8714000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "card",
+      "status": "pending",
+      "createdAt": "2026-05-19T09:58:07.748Z",
+      "id": "HvZimfCvCLI"
+    },
+    {
+      "userId": "bPbMTV48p_Y",
+      "items": [
+        {
+          "productId": "1",
+          "variantId": "1_var_4",
+          "title": "Shoesy Shoe Cabinet",
+          "price": 1620000,
+          "color": "MDV",
+          "image": "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVR7DDMXD5A5HQC1X8MQ08",
+          "qty": 1
+        },
+        {
+          "productId": "1",
+          "variantId": "1_var_5",
+          "title": "Shoesy Shoe Cabinet",
+          "price": 1660000,
+          "color": "UK",
+          "image": "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVSGACRMCCJBD4VF1W2BFQ",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 3280000,
+      "deliveryType": "pickup",
+      "pickupPointId": "n1",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-19T10:21:29.377Z",
+      "id": "9pLe3J6GxXM"
+    },
+    {
+      "userId": "P_GLv7Kt7pQ",
+      "items": [
+        {
+          "productId": "3",
+          "variantId": "3_var_1",
+          "title": "Wooden Dresser with Tri-fold Mirror",
+          "price": 1980000,
+          "oldPrice": 2107000,
+          "discount": 6,
+          "color": "DSan",
+          "image": "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G0W0KJ6EG2FA7SG17M9T",
+          "qty": 1
+        },
+        {
+          "productId": "6",
+          "variantId": "6_var_2",
+          "title": "Round collapsible dining table",
+          "price": 2150000,
+          "color": "0088П",
+          "image": "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKR4700SX2NY9AA5J4EP8",
+          "qty": 2
+        }
+      ],
+      "totalPrice": 6280000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "card",
+      "status": "pending",
+      "createdAt": "2026-05-20T09:06:59.658Z",
+      "id": "SSE8bblH9sc"
+    },
+    {
+      "userId": "a6mVonLlRC4",
+      "items": [
+        {
+          "productId": "6",
+          "variantId": "6_var_2",
+          "title": "Round collapsible dining table",
+          "price": 2150000,
+          "color": "0088П",
+          "image": "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKR4700SX2NY9AA5J4EP8",
+          "qty": 1
+        },
+        {
+          "productId": "2",
+          "variantId": "2_var_1",
+          "title": "Modern Armchair",
+          "price": 2322000,
+          "color": "NT-02",
+          "image": "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8MFTW1PDAY8HTWBJ6W2",
+          "qty": 1
+        },
+        {
+          "productId": "3",
+          "variantId": "3_var_1",
+          "title": "Wooden Dresser with Tri-fold Mirror",
+          "price": 1980000,
+          "oldPrice": 2107000,
+          "discount": 6,
+          "color": "DSan",
+          "image": "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G0W0KJ6EG2FA7SG17M9T",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 6452000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-20T12:47:53.706Z",
+      "id": "4VNQUyZwpTc"
+    },
+    {
+      "userId": "P_GLv7Kt7pQ",
+      "items": [
+        {
+          "productId": "6",
+          "variantId": "6_var_2",
+          "title": "Round collapsible dining table",
+          "price": 2150000,
+          "color": "0088П",
+          "image": "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKR4700SX2NY9AA5J4EP8",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 2150000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-20T12:55:33.505Z",
+      "id": "zuUxTROEdL0"
+    },
+    {
+      "userId": "P_GLv7Kt7pQ",
+      "items": [
+        {
+          "productId": "6",
+          "variantId": "6_var_2",
+          "title": "Round collapsible dining table",
+          "price": 2150000,
+          "color": "0088П",
+          "image": "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKR4700SX2NY9AA5J4EP8",
+          "qty": 1
+        }
+      ],
+      "totalPrice": 2150000,
+      "deliveryType": "delivery",
+      "address": "Nukus ",
+      "payment": "cash",
+      "status": "pending",
+      "createdAt": "2026-05-20T13:05:32.022Z",
+      "id": "FIayNpdssus"
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Miywagul",
+      "lastName": "Utemuratova",
+      "phone": "+998934257304",
+      "address": "Nukus ",
+      "id": "fdvKUF8v4Q8",
+      "middleName": "Doshmuratovna",
+      "birthDate": "2004-10-12T19:00:00.000Z",
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com"
+    },
+    {
+      "lastName": "Utemuratova",
+      "firstName": "Miywagul",
+      "middleName": "Doshmuratovna",
+      "birthDate": "2026-05-12T19:00:00.000Z",
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com",
+      "phone": "+998934257304",
+      "id": "YeboKQ_4u70"
+    },
+    {
+      "lastName": "Utemuratova",
+      "firstName": "Miywagul",
+      "middleName": "Doshmuratovna",
+      "birthDate": "2026-05-12T19:00:00.000Z",
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com",
+      "phone": "+998934257304",
+      "id": "CLWvd047yW0"
+    },
+    {
+      "lastName": "Utemuratova",
+      "firstName": "Miywagul",
+      "middleName": "Doshmuratovna",
+      "birthDate": "2026-05-05T19:00:00.000Z",
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com",
+      "phone": "+998934257304",
+      "id": "roW8tPyVsDU"
+    },
+    {
+      "lastName": "Utemuratova",
+      "firstName": "Miywagul",
+      "birthDate": null,
+      "phone": "+998934257304",
+      "id": "z1R8v8bnsaI"
+    },
+    {
+      "firstName": "Miywagul",
+      "lastName": "Utemuratova",
+      "phone": "+998934257304",
+      "pickupPointId": "n1",
+      "id": "4NE7ksTfJdI",
+      "middleName": "Doshmuratovna",
+      "birthDate": "2026-05-19T19:00:00.000Z",
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com"
+    },
+    {
+      "lastName": "Utemuratova",
+      "firstName": "Miywagul",
+      "middleName": "Doshmuratovna",
+      "birthDate": null,
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com",
+      "phone": "+998934257304",
+      "id": "6sUxZ9G2DY8"
+    },
+    {
+      "firstName": "Miyuagul",
+      "lastName": "Utemuratova",
+      "phone": "+998934257304",
+      "address": "ghj",
+      "id": "WGOOr_lTuTs",
+      "middleName": "Doshmuratovna",
+      "birthDate": "2026-05-13T19:00:00.000Z",
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com"
+    },
+    {
+      "lastName": "Utemuratova",
+      "firstName": "Miywagul",
+      "middleName": "Doshmuratovna",
+      "birthDate": "2026-05-12T19:00:00.000Z",
+      "gender": "female",
+      "email": "miywadoshmuratqizy@gmail.com",
+      "phone": "+998934257304",
+      "id": "NyNOTS3OtAw",
+      "pickupPointId": "n1",
+      "address": "Nukus "
+    },
+    {
+      "firstName": "Miywagul",
+      "lastName": "Utemuratova",
+      "phone": "+998934257304",
+      "address": "Nukus ",
+      "id": "bPbMTV48p_Y",
+      "pickupPointId": "n1"
+    },
+    {
+      "firstName": "Miywagul",
+      "lastName": "Utemuratova",
+      "phone": "+998 99 457 73 21",
+      "password": "12345678",
+      "id": "P_GLv7Kt7pQ",
+      "address": "Nukus "
+    },
+    {
+      "firstName": "Miywagul",
+      "lastName": "Utemuratova",
+      "phone": "+998 99 457 73 21",
+      "password": "23456789",
+      "id": "a6mVonLlRC4",
+      "address": "Nukus "
+    },
+    {
+      "firstName": "Miywagul",
+      "lastName": "Utemuratova",
+      "phone": "+998 67 890 98 76",
+      "password": "1112112",
+      "id": "h8QqoOJhZkg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Shoesy Shoe Cabinet",
+      "category": "storage",
+      "brand": "Walker",
+      "seller": "Shop Walker Collection",
+      "delivery": "3-5 business days",
+      "installment": "50000/month",
+      "tags": [
+        "popular",
+        "sale"
+      ],
+      "inStock": true,
+      "createdAt": "2025-07-31T00:00:00Z",
+      "description": "Well-made, great-looking and super comfortable. Our Walker outdoor collection is a customer favorite that checks all the boxes. Built to stand up to the elements, the dining table and chair set is made of rustproof aluminum treated with a durable matte powdercoat finish. Foam-filled seat cushions upholstered in your color choice of stain-resistant Sunbrella fabric layer on comfort.",
+      "dimensions": {
+        "width": 35,
+        "height": 87,
+        "depth": 60
+      },
+      "variants": [
+        {
+          "variantId": "1_var_1",
+          "productId": "1",
+          "color": "DS",
+          "price": 1540000,
+          "rating": 4.9,
+          "reviewsCount": 12,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVTYGMNYZA6WDVBWB8MYXK",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVTZ50P2KT69RTVBDDEN6Q",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVTXWTP8H7NZ5QRGT4P9FW"
+          ]
+        },
+        {
+          "variantId": "1_var_2",
+          "productId": "1",
+          "color": "Dsan",
+          "price": 1540000,
+          "oldPrice": 1818000,
+          "discount": 15,
+          "rating": 4.8,
+          "reviewsCount": 10,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVTBDRFB3TFNRYACVHZZRV",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVTC6E64DKE195QD7XGJ1A",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVTD08JW281TTVDB8DMHPM"
+          ]
+        },
+        {
+          "variantId": "1_var_3",
+          "productId": "1",
+          "color": "DB",
+          "price": 1590000,
+          "oldPrice": 1818000,
+          "discount": 13,
+          "rating": 4.7,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVS306N5GE097JZJMVMECC",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVS3M5CF93JP5MART35PJK",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVS2CJC75BJP62XVVFEY6X"
+          ]
+        },
+        {
+          "variantId": "1_var_4",
+          "productId": "1",
+          "color": "MDV",
+          "price": 1620000,
+          "rating": 4.8,
+          "reviewsCount": 13,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVR7DDMXD5A5HQC1X8MQ08",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVR81YE44NKY00Q1HPVJJQ",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVR91R7NMBM6ZB14BM3G24"
+          ]
+        },
+        {
+          "variantId": "1_var_5",
+          "productId": "1",
+          "color": "UK",
+          "price": 1660000,
+          "oldPrice": 1818000,
+          "discount": 9,
+          "rating": 4.8,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVSGACRMCCJBD4VF1W2BFQ",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVSGXW2YBQTZNPX8G840KQ",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVSHGZ9N5ADXM0E5ANRD80"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Modern Armchair",
+      "category": "chairs",
+      "brand": "FurniQ",
+      "seller": "Leonardo Casanova",
+      "delivery": "5 business days",
+      "installment": "50000/month",
+      "tags": [
+        "popular",
+        "new"
+      ],
+      "inStock": true,
+      "createdAt": "2025-11-20T00:00:00Z",
+      "description": "A modern classic armchair upholstered in premium beige fabric. Features solid wood legs and high-density foam cushioning for all-day comfort. Perfect for living rooms and reading nooks.",
+      "dimensions": {
+        "width": 64,
+        "height": 63,
+        "depth": 75
+      },
+      "variants": [
+        {
+          "variantId": "2_var_1",
+          "productId": "2",
+          "color": "NT-02",
+          "price": 2322000,
+          "rating": 4.3,
+          "reviewsCount": 14,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8MFTW1PDAY8HTWBJ6W2",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY8V5GRWX9R0K9SG8NES0",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY92WG4M1KFJXKS0B5JFV",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVY9A69KW0MF6SXJJMXPFW"
+          ]
+        },
+        {
+          "variantId": "2_var_2",
+          "productId": "2",
+          "color": "FOX",
+          "price": 2390000,
+          "rating": 4.6,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2026/02/19/01KHTS1BVS07ERMC8FQK9EQPV0",
+            "https://aiko.storage.pro-data.tech/2026/02/19/01KHTS1DP0ZPK1C5G55HDMJPRY",
+            "https://aiko.storage.pro-data.tech/2026/02/19/01KHTS1CENK8W9REEJ8YR7VNK9",
+            "https://aiko.storage.pro-data.tech/2026/02/19/01KHTS1D2H3P0CP607VQ5FFMAX"
+          ]
+        },
+        {
+          "variantId": "2_var_3",
+          "productId": "2",
+          "color": "Bravo Terra",
+          "price": 2450000,
+          "oldPrice": 2787000,
+          "discount": 12,
+          "rating": 4.5,
+          "reviewsCount": 13,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVTQ485DXX11XA7B68SHYN",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVTQAW2Q0HKAV25MV9SD9H",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVTQJ8YXJJYTGSRS8HGZJT",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVTQT98G7AR3CQS4737B00"
+          ]
+        },
+        {
+          "variantId": "2_var_4",
+          "productId": "2",
+          "color": "Moss 130",
+          "price": 2322000,
+          "rating": 4.5,
+          "reviewsCount": 10,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVWH0JZRT30CCSXCJZ2SEH",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVWH8SBJQ8V4DXTCXVNVB0",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVWHGMYJH7J69VWRKVTYP7",
+            "https://aiko.storage.pro-data.tech/2025/11/20/01KAFVWHSB2SKZ2DA7AT5TZZEX"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Wooden Dresser with Tri-fold Mirror",
+      "category": "storage",
+      "brand": "EZFurniq",
+      "seller": "Leonardo Casanova",
+      "delivery": "5 business days",
+      "installment": "50000/month",
+      "tags": [
+        "popular",
+        "installment"
+      ],
+      "inStock": true,
+      "createdAt": "2025-08-01T00:00:00Z",
+      "description": "Elegant wooden dresser with a classic tri-fold mirror. Features 6 spacious drawers with dovetail joinery and smooth-glide hardware. Crafted from solid mango wood with a rich walnut finish.",
+      "dimensions": {
+        "width": 120,
+        "height": 160,
+        "depth": 45
+      },
+      "variants": [
+        {
+          "variantId": "3_var_1",
+          "productId": "3",
+          "color": "DSan",
+          "price": 1980000,
+          "oldPrice": 2107000,
+          "discount": 6,
+          "rating": 4.7,
+          "reviewsCount": 15,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G0W0KJ6EG2FA7SG17M9T",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G1CW04R2XBJ6XYNR7QNN",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G1Z96MD1QB3SFZT82KW8",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G2MT0EK34SYSVR352YKS",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1J6G39AA7DFF2QR4DD6XAWT"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "3-Seater Linen Sofa with Cushions",
+      "category": "sofas",
+      "brand": "Redchet",
+      "seller": "AIKO",
+      "delivery": "5 business days",
+      "installment": "50000/month",
+      "tags": [
+        "popular"
+      ],
+      "inStock": true,
+      "createdAt": "2025-11-04T00:00:00Z",
+      "description": "Sink into this cloud-like 3-seater sofa upholstered in premium linen blend fabric. Deep seats, plush back cushions and solid kiln-dried wood frame make this sofa as durable as it is beautiful.",
+      "dimensions": {
+        "width": 220,
+        "height": 90,
+        "depth": 100
+      },
+      "variants": [
+        {
+          "variantId": "4_var_1",
+          "productId": "4",
+          "color": "Teddy 1",
+          "price": 5999000,
+          "oldPrice": 7601000,
+          "discount": 21,
+          "rating": 4.7,
+          "reviewsCount": 13,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K976NW78JTBZM66EJDKXX7EG",
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K976NWJG53MS86VR2DXV62ZM",
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K976NWX9E00KBA7D48D8872D",
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K976NX9NCD1WKVY9XMZF6PRS"
+          ]
+        },
+        {
+          "variantId": "4_var_2",
+          "productId": "4",
+          "color": "L.Graund",
+          "price": 6199000,
+          "rating": 4.5,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/30/01K8TK0A0Y7CNTDYEM7V9MXY3E",
+            "https://aiko.storage.pro-data.tech/2025/10/30/01K8TK0A86G9V3SRC6MB9WK6HR",
+            "https://aiko.storage.pro-data.tech/2025/10/30/01K8TK0AH33S1S3BFQSAX8KQCN",
+            "https://aiko.storage.pro-data.tech/2025/10/30/01K8TK0ATXCPXSZQFN5ZQ1T1HN"
+          ]
+        },
+        {
+          "variantId": "4_var_3",
+          "productId": "4",
+          "color": "Moss 784",
+          "price": 6099000,
+          "oldPrice": 7601000,
+          "discount": 20,
+          "rating": 4.6,
+          "reviewsCount": 12,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/12/02/01KBEPFZN39AEZSGFJ40B91XPH",
+            "https://aiko.storage.pro-data.tech/2025/12/02/01KBEPFZYQ6RH3S67HJBFBWXCX",
+            "https://aiko.storage.pro-data.tech/2025/12/02/01KBEPG0NVEMJ5GAY11K93QHK8",
+            "https://aiko.storage.pro-data.tech/2025/12/02/01KBEPG12S2XDP1Q197RA3Z18W"
+          ]
+        },
+        {
+          "variantId": "4_var_4",
+          "productId": "4",
+          "color": "Teddy 13",
+          "price": 5999000,
+          "rating": 4.6,
+          "reviewsCount": 10,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K9760KNE7XJP21ZRYD9Q897S",
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K9760KZ3HFCMEV1ACJ3AEJH1",
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K9760MBJDYMH35RJ5H1EVB6E",
+            "https://aiko.storage.pro-data.tech/2025/11/04/01K9760MPS02Z4ZDQZGGKJYNQM"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Mid-Century Lounge Chair with Ottoman",
+      "category": "chairs",
+      "brand": "Comfy",
+      "seller": "ComfySel",
+      "delivery": "5 business days",
+      "installment": "50000/month",
+      "tags": [
+        "new"
+      ],
+      "inStock": true,
+      "createdAt": "2025-08-08T00:00:00Z",
+      "description": "A timeless mid-century design featuring a sculptural wooden base and generously padded seat and back. Includes matching ottoman. Perfect for any modern living space.",
+      "dimensions": {
+        "width": 70,
+        "height": 70,
+        "depth": 72
+      },
+      "variants": [
+        {
+          "variantId": "5_var_1",
+          "productId": "5",
+          "color": "Moss-996",
+          "price": 1800000,
+          "oldPrice": 2079000,
+          "discount": 13,
+          "rating": 4.2,
+          "reviewsCount": 12,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VD397QD42GNDSKHF6TMT7",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VD3WH57A0ZT7C2KGKJQXH",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VD557V32A0X5TA5GJ51PR",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VD4FX27N9M6WEKWMNMTX7"
+          ]
+        },
+        {
+          "variantId": "5_var_2",
+          "productId": "5",
+          "color": "Moss-130",
+          "price": 1850000,
+          "rating": 4,
+          "reviewsCount": 10,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VBVMP69KDCFTHD2F6CERE",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VBW8P87EYYAM3MN3J22C9",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VBXHKRGJATSHAX516FGZD",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VBWW7GJ03934ZYGWWQWD8"
+          ]
+        },
+        {
+          "variantId": "5_var_3",
+          "productId": "5",
+          "color": "MOSS-160",
+          "price": 1870000,
+          "oldPrice": 2079000,
+          "discount": 10,
+          "rating": 4.1,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VC6306PA461ADPWDAZNH9",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VC6P4SGJ7MEYZQZT4KZYZ",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VC7Y0EN9VCVZ61FZBM0Q0",
+            "https://aiko.storage.pro-data.tech/2025/08/08/01K24VC79CJ2F46CHEYV32AJ7Y"
+          ]
+        },
+        {
+          "variantId": "5_var_4",
+          "productId": "5",
+          "color": "Moss-784",
+          "price": 1800000,
+          "rating": 4.2,
+          "reviewsCount": 10,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/06/01K9BTWYC111HC5HEESCKB6YWS",
+            "https://aiko.storage.pro-data.tech/2025/11/06/01K9BTWYPFP2A9RXH112E6WAV5",
+            "https://aiko.storage.pro-data.tech/2025/11/06/01K9BTWZ0AVY5F66K6FH4N0RR8",
+            "https://aiko.storage.pro-data.tech/2025/11/06/01K9BTWZ96KYT524XBM02GM3GJ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Round collapsible dining table",
+      "category": "tables",
+      "brand": "Giantex",
+      "seller": "Leick Home",
+      "delivery": "5 business days",
+      "installment": "50000/month",
+      "tags": [
+        "sale",
+        "installment"
+      ],
+      "inStock": true,
+      "createdAt": "2025-10-04T00:00:00Z",
+      "description": "Solid oak coffee table with clean lines and a natural finish. Features a lower shelf for additional storage. Sustainably sourced wood with a water-resistant coating.",
+      "dimensions": {
+        "width": 120,
+        "height": 42,
+        "depth": 60
+      },
+      "variants": [
+        {
+          "variantId": "6_var_1",
+          "productId": "6",
+          "color": "7034П",
+          "price": 2090000,
+          "oldPrice": 2390000,
+          "discount": 13,
+          "rating": 4.8,
+          "reviewsCount": 14,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRN87WJGNZA1CGX52P00Z0",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRN7YYAMG4S1W10JK2RFHC",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRN7EX91K0E5TC8PMVVVZ5",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRN7Q9KS3B3N65PWH0FBWC"
+          ]
+        },
+        {
+          "variantId": "6_var_2",
+          "productId": "6",
+          "color": "0088П",
+          "price": 2150000,
+          "rating": 4.6,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKR4700SX2NY9AA5J4EP8",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKRD8NK9PDJM6J6YV193F",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKQFN8A0BMADCMS8H8M7R",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRKQTQXEHNN6ES1QV3E7CX"
+          ]
+        },
+        {
+          "variantId": "6_var_3",
+          "productId": "6",
+          "color": "4046К",
+          "price": 2090000,
+          "oldPrice": 2390000,
+          "discount": 13,
+          "rating": 4.7,
+          "reviewsCount": 12,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRMGD7YNZCFHQFN6EJCDER",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRMGKSMMGW7G6BDVSBRDXK",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRMFX8EQQRJJ4C1J4QCWG5",
+            "https://aiko.storage.pro-data.tech/2025/10/04/01K6PRMG5SY53V6XAQJWSV8R4S"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "King Size Platform Bed Frame",
+      "category": "beds",
+      "brand": "CALMA",
+      "seller": "AIKO",
+      "delivery": "7 business days",
+      "installment": "50000/month",
+      "tags": [
+        "sale",
+        "installment"
+      ],
+      "inStock": true,
+      "createdAt": "2025-11-28T00:00:00Z",
+      "description": "Modern platform bed with an upholstered headboard and solid wood slat system. No box spring needed. Features a low-profile design with clean geometric lines.",
+      "dimensions": {
+        "width": 200,
+        "height": 110,
+        "depth": 215
+      },
+      "variants": [
+        {
+          "variantId": "7_var_1",
+          "productId": "7",
+          "color": "TLW Bsh",
+          "price": 5990000,
+          "oldPrice": 6500000,
+          "discount": 8,
+          "rating": 4.7,
+          "reviewsCount": 14,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4EATGWQRG6B0J5MGENH8K9",
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4EAT5TFXDFM7NXY35D118F",
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4EASRN0MHESJZQB8VR519Q",
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4EASDVE0C5H2N8RAHASC6F"
+          ]
+        },
+        {
+          "variantId": "7_var_2",
+          "productId": "7",
+          "color": "TDW",
+          "price": 6100000,
+          "rating": 4.5,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4BHYDM6FRR9VG6E6EGZM52",
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4E8HH6JBZP2RG9ZTD1GXFG",
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4E8GZAPC9QXBK0NS1R796S",
+            "https://aiko.storage.pro-data.tech/2025/11/28/01KB4E8H83HFF6NJYZPPT5SAH5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "MK Krosses shelving",
+      "category": "storage",
+      "brand": "EZFurniq",
+      "seller": "Shop Walker Collection",
+      "delivery": "3 business days",
+      "installment": "50000/month",
+      "tags": [
+        "new",
+        "installment"
+      ],
+      "inStock": true,
+      "createdAt": "2025-10-15T00:00:00Z",
+      "description": "Minimalist floating wall shelf with invisible mounting hardware. Crafted from engineered wood with a lacquered finish. Ideal for books, plants and decorative objects.",
+      "dimensions": {
+        "width": 90,
+        "height": 20,
+        "depth": 25
+      },
+      "variants": [
+        {
+          "variantId": "8_var_1",
+          "productId": "8",
+          "color": "DS",
+          "price": 1290000,
+          "oldPrice": 1596000,
+          "discount": 19,
+          "rating": 4.4,
+          "reviewsCount": 12,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJ4B1P4SB6QKQBGRK393",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJCD5DQR9STJXW1945RK",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJMD2NHFT42CP6ZQYQXQ",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJXW2XGM8WGMBNFD76KP"
+          ]
+        },
+        {
+          "variantId": "8_var_2",
+          "productId": "8",
+          "color": "DB",
+          "price": 1290000,
+          "rating": 4.2,
+          "reviewsCount": 10,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJ4B1P4SB6QKQBGRK393",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJCD5DQR9STJXW1945RK",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJMD2NHFT42CP6ZQYQXQ",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMRJXW2XGM8WGMBNFD76KP"
+          ]
+        },
+        {
+          "variantId": "8_var_3",
+          "productId": "8",
+          "color": "DSan.B",
+          "price": 1350000,
+          "oldPrice": 1596000,
+          "discount": 15,
+          "rating": 4.3,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMXRP8T7E2QXKJCE0EQTNJ",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMXRX7MV386XR1VJ9Y24B0",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMXS40GFFM4CAAMGB12TR2",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KMXSB6RWB56CC2HMQ67KP3"
+          ]
+        },
+        {
+          "variantId": "8_var_4",
+          "productId": "8",
+          "color": "GK",
+          "price": 1380000,
+          "rating": 4.3,
+          "reviewsCount": 10,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN03HMMGHJCSHAW9BV29NK",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN03V8V7YTSPWN0SPEBQN1",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN046DJBHT4PED2RWD82SS",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN04GJH2MDVRZN07NGZM7W"
+          ]
+        },
+        {
+          "variantId": "8_var_5",
+          "productId": "8",
+          "color": "MDV",
+          "price": 1400000,
+          "oldPrice": 1596000,
+          "discount": 12,
+          "rating": 4.5,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN3MX0GYRC6HV7T5B6PFF8",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN3N4SKBPT49BGGA2D28VT",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN3NDCQSD1MSK51FPPQ1SV",
+            "https://aiko.storage.pro-data.tech/2025/10/15/01K7KN3NP8MC9E6CV23N7RJPYQ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Minimal Office Work Desk",
+      "category": "tables",
+      "brand": "Brooklyn",
+      "seller": "AIKO",
+      "delivery": "4 business days",
+      "installment": "50000/month",
+      "tags": [
+        "new",
+        "popular"
+      ],
+      "inStock": true,
+      "createdAt": "2025-08-01T00:00:00Z",
+      "description": "Compact minimalist office desk designed for productivity. Clean surface, cable management system, and durable wood finish.",
+      "dimensions": {
+        "width": 120,
+        "height": 75,
+        "depth": 60
+      },
+      "variants": [
+        {
+          "variantId": "9_var_1",
+          "productId": "9",
+          "color": "DB",
+          "price": 1750000,
+          "oldPrice": 1990000,
+          "discount": 12,
+          "rating": 4.7,
+          "reviewsCount": 13,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS96K5NAJJ44JCFM7T8TNV",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS972ZRBGX0S17QMCXD1V7",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS97MNJSM2WA7YV8AE09T5",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS984J7JPX445Y0RP3HJDW"
+          ]
+        },
+        {
+          "variantId": "9_var_2",
+          "productId": "9",
+          "color": "MDV",
+          "price": 1820000,
+          "rating": 4.5,
+          "reviewsCount": 11,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9DX24XWWM49FHS1TJN82",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9EEFN9WFY6TD8TZFGNNN",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9F1JQGJVW8XMT0MNFCBE",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9FMZG182DEG9WYQ33Q03"
+          ]
+        },
+        {
+          "variantId": "9_var_3",
+          "productId": "9",
+          "color": "DS",
+          "price": 1780000,
+          "oldPrice": 1990000,
+          "discount": 11,
+          "rating": 4.6,
+          "reviewsCount": 12,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9PJ1BDJ3A8Z0VZFF1XG5",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9Q3FH9162YESE0WR89J7",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9QPEVHWY070K23K0HP1T",
+            "https://aiko.storage.pro-data.tech/2025/08/01/01K1JS9R986AAB83M702T1MS2X"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Modern TV Stand with Storage",
+      "category": "storage",
+      "brand": "AIKO Home",
+      "seller": "AIKO",
+      "delivery": "5 business days",
+      "installment": "50000/month",
+      "tags": [
+        "sale",
+        "popular"
+      ],
+      "inStock": true,
+      "createdAt": "2025-07-31T00:00:00Z",
+      "description": "Stylish TV stand with spacious storage compartments and cable management. Perfect for modern living rooms.",
+      "dimensions": {
+        "width": 160,
+        "height": 50,
+        "depth": 40
+      },
+      "variants": [
+        {
+          "variantId": "10_var_1",
+          "productId": "10",
+          "color": "DSan.BSH",
+          "price": 2250000,
+          "oldPrice": 2590000,
+          "discount": 13,
+          "rating": 4.7,
+          "reviewsCount": 15,
+          "inStock": true,
+          "images": [
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVD1N312BA0RKXX45TAMAQ",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVD2624SVKQFNPHX9FZEJC",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVD2VQ82JNHV7XCAWYHFQR",
+            "https://aiko.storage.pro-data.tech/2025/07/31/01K1GVD3MAEPN2EWKFQ1HTE4P3"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev_001",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_101",
+      "userName": "Jason T.",
+      "rating": 5,
+      "comment": "Excellent cabinet, love the color too. Highly recommend!",
+      "createdAt": "2026-01-05T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_002",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_102",
+      "userName": "Melissa S.",
+      "rating": 5,
+      "comment": "Top-notch quality, assembly was easy too.",
+      "createdAt": "2026-01-08T11:20:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_003",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_103",
+      "userName": "Bobby A.",
+      "rating": 5,
+      "comment": "Fits perfectly at home, love the DS color.",
+      "createdAt": "2026-01-12T14:10:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_004",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "P_GLv7Kt7pQ",
+      "userName": "Nicole R.",
+      "rating": 5,
+      "comment": "Turned out better than I expected!",
+      "createdAt": "2026-01-15T10:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_005",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_105",
+      "userName": "Shawn M.",
+      "rating": 4,
+      "comment": "Good product, delivery was just a bit late.",
+      "createdAt": "2026-01-20T08:45:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_006",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_106",
+      "userName": "Diana K.",
+      "rating": 5,
+      "comment": "Ideal spot for my shoes, very convenient size.",
+      "createdAt": "2026-01-25T16:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_007",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_107",
+      "userName": "Sam N.",
+      "rating": 5,
+      "comment": "Very beautiful, adds a nice touch to the room.",
+      "createdAt": "2026-02-01T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_008",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_108",
+      "userName": "Gaby I.",
+      "rating": 5,
+      "comment": "Amazing cabinet! Each pair has its own spot.",
+      "createdAt": "2026-02-05T09:30:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_009",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_109",
+      "userName": "Oliver F.",
+      "rating": 5,
+      "comment": "Arrived quickly and quality is high.",
+      "createdAt": "2026-02-10T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_010",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_110",
+      "userName": "Zoe O.",
+      "rating": 5,
+      "comment": "Assembly instructions are clear, built it easily.",
+      "createdAt": "2026-02-14T17:20:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_011",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_111",
+      "userName": "Calvin B.",
+      "rating": 5,
+      "comment": "Perfect price-to-quality ratio.",
+      "createdAt": "2026-02-18T10:10:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_012",
+      "productId": "1",
+      "variantId": "1_var_1",
+      "userId": "user_112",
+      "userName": "Fiona X.",
+      "rating": 5,
+      "comment": "Ordered a second time — this color is the best!",
+      "createdAt": "2026-02-22T14:50:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_013",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_113",
+      "userName": "Alex Q.",
+      "rating": 5,
+      "comment": "The Dsan color matched the room perfectly.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_014",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_114",
+      "userName": "Monica H.",
+      "rating": 5,
+      "comment": "Quality material, I think it will last a long time.",
+      "createdAt": "2026-01-14T11:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_015",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_115",
+      "userName": "Tim V.",
+      "rating": 4,
+      "comment": "Good, but a bit heavy.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_016",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_116",
+      "userName": "Shannon L.",
+      "rating": 5,
+      "comment": "Great product in every way!",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_017",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_117",
+      "userName": "Brian Y.",
+      "rating": 5,
+      "comment": "Put it in the hallway — turned out very convenient.",
+      "createdAt": "2026-02-04T08:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_018",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_118",
+      "userName": "Martha C.",
+      "rating": 5,
+      "comment": "Easy assembly, looks beautiful.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_019",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_119",
+      "userName": "Nathan P.",
+      "rating": 4,
+      "comment": "Overall good, color matches the photo.",
+      "createdAt": "2026-02-13T10:45:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_020",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_120",
+      "userName": "Holly E.",
+      "rating": 5,
+      "comment": "Product arrived exactly as described.",
+      "createdAt": "2026-02-17T13:20:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_021",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_121",
+      "userName": "Simon G.",
+      "rating": 5,
+      "comment": "No chemical smell when unboxed — great.",
+      "createdAt": "2026-02-20T11:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_022",
+      "productId": "1",
+      "variantId": "1_var_2",
+      "userId": "user_122",
+      "userName": "Laura W.",
+      "rating": 5,
+      "comment": "Highly recommend, will tell my friends too.",
+      "createdAt": "2026-02-24T16:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_023",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_123",
+      "userName": "Ross D.",
+      "rating": 5,
+      "comment": "DB color is very unique, loved it.",
+      "createdAt": "2026-01-06T09:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_024",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_124",
+      "userName": "Sandra J.",
+      "rating": 5,
+      "comment": "Plenty of space for my shoes, very convenient.",
+      "createdAt": "2026-01-13T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_025",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_125",
+      "userName": "Fred U.",
+      "rating": 4,
+      "comment": "Good, but the assembly instructions were a bit unclear.",
+      "createdAt": "2026-01-19T14:20:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_026",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "bPbMTV48p_Y",
+      "userName": "Mia U.",
+      "rating": 5,
+      "comment": "Excellent quality, looks great too.",
+      "createdAt": "2026-01-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_027",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_127",
+      "userName": "Eldon S.",
+      "rating": 5,
+      "comment": "Price is right, product is great.",
+      "createdAt": "2026-02-02T09:15:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_028",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_128",
+      "userName": "Rebecca M.",
+      "rating": 5,
+      "comment": "Beautiful design, door is sturdy too.",
+      "createdAt": "2026-02-07T15:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_029",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_129",
+      "userName": "Ibrahim N.",
+      "rating": 4,
+      "comment": "Good product, would be even better if it arrived sooner.",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_030",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "bPbMTV48p_Y",
+      "userName": "Olivia F.",
+      "rating": 4,
+      "comment": "Just as shown in the photos, really loved it.",
+      "createdAt": "2026-02-16T13:40:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_031",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_131",
+      "userName": "Hugh B.",
+      "rating": 5,
+      "comment": "Saves space in the room, great capacity.",
+      "createdAt": "2026-02-19T09:50:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_032",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_132",
+      "userName": "Crystal A.",
+      "rating": 5,
+      "comment": "Best cabinet ever! Recommend to everyone.",
+      "createdAt": "2026-02-23T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_033",
+      "productId": "1",
+      "variantId": "1_var_3",
+      "userId": "user_133",
+      "userName": "Diana K.",
+      "rating": 5,
+      "comment": "10/10 for quality and design.",
+      "createdAt": "2026-02-26T11:20:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_034",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_134",
+      "userName": "Marcus O.",
+      "rating": 5,
+      "comment": "MDV color fits the room perfectly.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_035",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_135",
+      "userName": "Brenda Q.",
+      "rating": 5,
+      "comment": "Small but fits a lot inside.",
+      "createdAt": "2026-01-16T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_036",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_136",
+      "userName": "Jesse L.",
+      "rating": 5,
+      "comment": "Wonderful product, my friend got one too.",
+      "createdAt": "2026-01-22T09:30:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_037",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_137",
+      "userName": "Sophie H.",
+      "rating": 4,
+      "comment": "Good, the color was slightly different from the photo.",
+      "createdAt": "2026-01-29T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_038",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_138",
+      "userName": "Quinn Y.",
+      "rating": 5,
+      "comment": "Modern design, high quality.",
+      "createdAt": "2026-02-03T10:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_039",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_139",
+      "userName": "Maya Z.",
+      "rating": 5,
+      "comment": "Delivered quickly, structure is solid.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_040",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_140",
+      "userName": "Owen C.",
+      "rating": 5,
+      "comment": "Instructions are clear, assembled it in 30 minutes.",
+      "createdAt": "2026-02-11T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_041",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_141",
+      "userName": "Frances R.",
+      "rating": 5,
+      "comment": "Very sturdy, will last a long time.",
+      "createdAt": "2026-02-15T12:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_042",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_142",
+      "userName": "Logan P.",
+      "rating": 5,
+      "comment": "Great price and great quality.",
+      "createdAt": "2026-02-18T10:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_043",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_143",
+      "userName": "Sylvia E.",
+      "rating": 5,
+      "comment": "Beautiful cabinet, everything matched.",
+      "createdAt": "2026-02-21T14:10:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_044",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_144",
+      "userName": "Beck G.",
+      "rating": 5,
+      "comment": "Second order — this color is great too.",
+      "createdAt": "2026-02-25T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_045",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_145",
+      "userName": "Yara W.",
+      "rating": 4,
+      "comment": "Good product, but packaging could be improved.",
+      "createdAt": "2026-02-27T13:20:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_046",
+      "productId": "1",
+      "variantId": "1_var_4",
+      "userId": "user_146",
+      "userName": "Diane T.",
+      "rating": 5,
+      "comment": "Very convenient and beautiful.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_047",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_147",
+      "userName": "Max D.",
+      "rating": 5,
+      "comment": "UK color is the most beautiful, fits the room.",
+      "createdAt": "2026-01-10T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_048",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_148",
+      "userName": "Mandy S.",
+      "rating": 5,
+      "comment": "Quality material, easy assembly.",
+      "createdAt": "2026-01-17T11:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_049",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_149",
+      "userName": "Andy N.",
+      "rating": 5,
+      "comment": "Fits many shoes, very convenient.",
+      "createdAt": "2026-01-24T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_050",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_150",
+      "userName": "Gloria V.",
+      "rating": 4,
+      "comment": "Good, but delivery was delayed.",
+      "createdAt": "2026-01-31T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_051",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_151",
+      "userName": "Harry F.",
+      "rating": 5,
+      "comment": "Affordable price, high quality.",
+      "createdAt": "2026-02-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_052",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_152",
+      "userName": "Lena A.",
+      "rating": 5,
+      "comment": "Arrived exactly as shown in photos.",
+      "createdAt": "2026-02-10T15:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_053",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_153",
+      "userName": "Uma B.",
+      "rating": 5,
+      "comment": "Structure is solid, reliable.",
+      "createdAt": "2026-02-14T09:10:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_054",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_154",
+      "userName": "Rosa M.",
+      "rating": 5,
+      "comment": "Very beautiful design, fits nicely at home.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_055",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_155",
+      "userName": "Seb K.",
+      "rating": 5,
+      "comment": "Excellent quality, highly recommend.",
+      "createdAt": "2026-02-20T10:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_056",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_156",
+      "userName": "Hilda O.",
+      "rating": 5,
+      "comment": "Ideal for my shoes!",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_057",
+      "productId": "1",
+      "variantId": "1_var_5",
+      "userId": "user_157",
+      "userName": "John E.",
+      "rating": 5,
+      "comment": "Easy to assemble, instructions are clear.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_058",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_201",
+      "userName": "Camille T.",
+      "rating": 5,
+      "comment": "Very comfortable chair, all guests complimented it.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_059",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_202",
+      "userName": "Otto R.",
+      "rating": 5,
+      "comment": "NT-02 color fits the living room perfectly.",
+      "createdAt": "2026-01-10T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_060",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_203",
+      "userName": "Sheila M.",
+      "rating": 4,
+      "comment": "Beautiful, just a bit firm.",
+      "createdAt": "2026-01-15T09:30:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_061",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_204",
+      "userName": "Lance N.",
+      "rating": 5,
+      "comment": "Premium quality, price is fair.",
+      "createdAt": "2026-01-20T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_062",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_205",
+      "userName": "Zoe F.",
+      "rating": 5,
+      "comment": "Looks even better than in the photos.",
+      "createdAt": "2026-01-25T10:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_063",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_206",
+      "userName": "Jake K.",
+      "rating": 5,
+      "comment": "Been sitting working for long hours, no fatigue at all.",
+      "createdAt": "2026-01-30T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_064",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_207",
+      "userName": "Natalie B.",
+      "rating": 4,
+      "comment": "Good chair, but assembly was a bit tricky.",
+      "createdAt": "2026-02-04T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_065",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_208",
+      "userName": "Tim A.",
+      "rating": 5,
+      "comment": "Sturdy, quality wooden legs.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_066",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_209",
+      "userName": "Faye D.",
+      "rating": 5,
+      "comment": "Even better than I had hoped!",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_067",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_210",
+      "userName": "Ben S.",
+      "rating": 5,
+      "comment": "Ideal chair for a reading corner.",
+      "createdAt": "2026-02-16T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_068",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_211",
+      "userName": "Maddie O.",
+      "rating": 5,
+      "comment": "Color is accurate, structure is solid.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_069",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_212",
+      "userName": "Alp E.",
+      "rating": 5,
+      "comment": "Great value for money.",
+      "createdAt": "2026-02-23T14:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_070",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_213",
+      "userName": "Sam G.",
+      "rating": 5,
+      "comment": "Ordered one for my guest room too.",
+      "createdAt": "2026-02-26T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_071",
+      "productId": "2",
+      "variantId": "2_var_1",
+      "userId": "user_214",
+      "userName": "Gloria W.",
+      "rating": 4,
+      "comment": "Very good, delivery was only 1 day late.",
+      "createdAt": "2026-03-01T09:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_072",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_215",
+      "userName": "Nathan T.",
+      "rating": 4,
+      "comment": "FOX color is lovely, good quality.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_073",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_216",
+      "userName": "Diana R.",
+      "rating": 4,
+      "comment": "Chair is comfortable, but no side cushion.",
+      "createdAt": "2026-01-14T11:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_074",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_217",
+      "userName": "Akbar M.",
+      "rating": 5,
+      "comment": "Matched the home interior perfectly.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_075",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_218",
+      "userName": "Shannon N.",
+      "rating": 4,
+      "comment": "Good product, I'll review again after a while.",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_076",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_219",
+      "userName": "Cameron F.",
+      "rating": 5,
+      "comment": "Thick fabric, looks very durable.",
+      "createdAt": "2026-02-03T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_077",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_220",
+      "userName": "Molly A.",
+      "rating": 4,
+      "comment": "Overall good, just needs more floor space.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_078",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_221",
+      "userName": "Roy B.",
+      "rating": 5,
+      "comment": "Modern design, will last a long time.",
+      "createdAt": "2026-02-12T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_079",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_222",
+      "userName": "Olivia K.",
+      "rating": 4,
+      "comment": "Arrived just as shown in photos.",
+      "createdAt": "2026-02-16T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_080",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_223",
+      "userName": "Murray O.",
+      "rating": 4,
+      "comment": "Good chair, price is slightly high.",
+      "createdAt": "2026-02-19T10:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_081",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_224",
+      "userName": "Ida E.",
+      "rating": 5,
+      "comment": "Turned out better than I expected.",
+      "createdAt": "2026-02-22T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_082",
+      "productId": "2",
+      "variantId": "2_var_2",
+      "userId": "user_225",
+      "userName": "Bart G.",
+      "rating": 5,
+      "comment": "Most comfortable chair ever, highly recommend.",
+      "createdAt": "2026-02-25T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_083",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_226",
+      "userName": "Laura S.",
+      "rating": 5,
+      "comment": "Bravo Terra color feels very warm and cozy.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_084",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_227",
+      "userName": "James T.",
+      "rating": 5,
+      "comment": "Excellent quality, wooden legs are very sturdy.",
+      "createdAt": "2026-01-15T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_085",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_228",
+      "userName": "Zara R.",
+      "rating": 4,
+      "comment": "Good chair, just a bit large.",
+      "createdAt": "2026-01-22T09:30:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_086",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_229",
+      "userName": "Ulric M.",
+      "rating": 5,
+      "comment": "Color is accurate, quality is high.",
+      "createdAt": "2026-01-29T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_087",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_230",
+      "userName": "Holly N.",
+      "rating": 5,
+      "comment": "Feels premium, price is also reasonable.",
+      "createdAt": "2026-02-04T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_088",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_231",
+      "userName": "Mansur F.",
+      "rating": 5,
+      "comment": "Very beautiful, placed it in the living room.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_089",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_232",
+      "userName": "Sadie K.",
+      "rating": 4,
+      "comment": "Good product, arrived quickly.",
+      "createdAt": "2026-02-13T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_090",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_233",
+      "userName": "Fred B.",
+      "rating": 5,
+      "comment": "Sat reading for a long time — no fatigue at all.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_091",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_234",
+      "userName": "Mabel A.",
+      "rating": 5,
+      "comment": "Highly recommend, excellent quality.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_092",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_235",
+      "userName": "Ismail O.",
+      "rating": 5,
+      "comment": "Very beautiful design.",
+      "createdAt": "2026-02-23T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_093",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_236",
+      "userName": "Nadia E.",
+      "rating": 5,
+      "comment": "Best chair I've ever bought.",
+      "createdAt": "2026-02-26T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_094",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_237",
+      "userName": "Sam G.",
+      "rating": 5,
+      "comment": "Fabric is soft, will last a long time.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_095",
+      "productId": "2",
+      "variantId": "2_var_3",
+      "userId": "user_238",
+      "userName": "Zoe W.",
+      "rating": 5,
+      "comment": "Absolutely love it, will get another one.",
+      "createdAt": "2026-03-03T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_096",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_239",
+      "userName": "Hamza T.",
+      "rating": 5,
+      "comment": "Moss 130 color is very calm and peaceful.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_097",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_240",
+      "userName": "Joy R.",
+      "rating": 4,
+      "comment": "Good chair, but a bit heavy.",
+      "createdAt": "2026-01-16T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_098",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_241",
+      "userName": "Dawn M.",
+      "rating": 5,
+      "comment": "Excellent quality, guests complimented it too.",
+      "createdAt": "2026-01-23T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_099",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_242",
+      "userName": "Akmal N.",
+      "rating": 4,
+      "comment": "Good, packaging was also good.",
+      "createdAt": "2026-01-30T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_100",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_243",
+      "userName": "Camille F.",
+      "rating": 5,
+      "comment": "Looks beautiful, price is fair.",
+      "createdAt": "2026-02-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_101",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_244",
+      "userName": "Victor A.",
+      "rating": 5,
+      "comment": "Very comfortable, ideal for everyday use.",
+      "createdAt": "2026-02-10T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_102",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_245",
+      "userName": "Sam B.",
+      "rating": 5,
+      "comment": "Overall a great product.",
+      "createdAt": "2026-02-14T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_103",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_246",
+      "userName": "Rose K.",
+      "rating": 5,
+      "comment": "Color is exactly as shown in photos.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_104",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_247",
+      "userName": "Beck O.",
+      "rating": 5,
+      "comment": "Sturdy, quality product.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_105",
+      "productId": "2",
+      "variantId": "2_var_4",
+      "userId": "user_248",
+      "userName": "Diana E.",
+      "rating": 5,
+      "comment": "Highly recommend!",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_106",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_301",
+      "userName": "Nina T.",
+      "rating": 5,
+      "comment": "The mirror is amazing, beautiful design.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_107",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_302",
+      "userName": "Eldon R.",
+      "rating": 5,
+      "comment": "Drawers slide smoothly, excellent quality.",
+      "createdAt": "2026-01-10T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_108",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_303",
+      "userName": "Zara M.",
+      "rating": 5,
+      "comment": "Mango wood is very durable.",
+      "createdAt": "2026-01-15T09:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_109",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_304",
+      "userName": "Deston N.",
+      "rating": 4,
+      "comment": "Good, a bit heavy but very sturdy.",
+      "createdAt": "2026-01-20T14:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_110",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_305",
+      "userName": "Sevin F.",
+      "rating": 5,
+      "comment": "Decorates the room, very beautiful.",
+      "createdAt": "2026-01-25T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_111",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_306",
+      "userName": "Hugh A.",
+      "rating": 5,
+      "comment": "Tri-fold mirror is very practical.",
+      "createdAt": "2026-01-30T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_112",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_307",
+      "userName": "Molly B.",
+      "rating": 5,
+      "comment": "Large capacity, ideal for clothing.",
+      "createdAt": "2026-02-04T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_113",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_308",
+      "userName": "Zach K.",
+      "rating": 5,
+      "comment": "Premium material, classic design.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_114",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_309",
+      "userName": "Ida O.",
+      "rating": 5,
+      "comment": "Turned out even better than expected.",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_115",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_310",
+      "userName": "Akbar E.",
+      "rating": 5,
+      "comment": "Drawers are sturdy and smooth.",
+      "createdAt": "2026-02-16T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_116",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_311",
+      "userName": "Nora G.",
+      "rating": 4,
+      "comment": "Good dresser, price is a little high.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_117",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_312",
+      "userName": "Ian W.",
+      "rating": 5,
+      "comment": "Will order again.",
+      "createdAt": "2026-02-23T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_118",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_313",
+      "userName": "Brenda S.",
+      "rating": 5,
+      "comment": "3-sided mirror — very handy.",
+      "createdAt": "2026-02-26T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_119",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_314",
+      "userName": "Frank T.",
+      "rating": 5,
+      "comment": "Wonderful product, highly recommend!",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_120",
+      "productId": "3",
+      "variantId": "3_var_1",
+      "userId": "user_315",
+      "userName": "Nicole R.",
+      "rating": 5,
+      "comment": "5/5 for quality and design.",
+      "createdAt": "2026-03-03T14:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_121",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_401",
+      "userName": "Jason A.",
+      "rating": 5,
+      "comment": "Teddy 1 color is so soft and beautiful.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_122",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_402",
+      "userName": "Rose T.",
+      "rating": 5,
+      "comment": "Large sofa, the whole family fits comfortably.",
+      "createdAt": "2026-01-10T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_123",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_403",
+      "userName": "Victor M.",
+      "rating": 5,
+      "comment": "Very comfortable, never get tired even after sitting for a long time.",
+      "createdAt": "2026-01-15T09:30:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_124",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_404",
+      "userName": "Diana N.",
+      "rating": 4,
+      "comment": "Good sofa, delivery was just slow.",
+      "createdAt": "2026-01-20T14:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_125",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_405",
+      "userName": "Laz F.",
+      "rating": 5,
+      "comment": "Excellent quality, fabric is durable.",
+      "createdAt": "2026-01-25T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_126",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_406",
+      "userName": "Gloria A.",
+      "rating": 5,
+      "comment": "Pillows are included, wonderful.",
+      "createdAt": "2026-01-30T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_127",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_407",
+      "userName": "Marcus B.",
+      "rating": 5,
+      "comment": "Decorates the room, everyone complimented it.",
+      "createdAt": "2026-02-04T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_128",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_408",
+      "userName": "Zoe K.",
+      "rating": 5,
+      "comment": "Large and comfortable, price is fair.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_129",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_409",
+      "userName": "Alec O.",
+      "rating": 5,
+      "comment": "Premium linen fabric, very nice.",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_130",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_410",
+      "userName": "Camille E.",
+      "rating": 5,
+      "comment": "Best sofa I've ever bought.",
+      "createdAt": "2026-02-16T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_131",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_411",
+      "userName": "Shawn G.",
+      "rating": 4,
+      "comment": "Good, a little bigger would also be fine.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_132",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_412",
+      "userName": "Nora W.",
+      "rating": 5,
+      "comment": "Highly recommend, wonderful product.",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_133",
+      "productId": "4",
+      "variantId": "4_var_1",
+      "userId": "user_413",
+      "userName": "Bobby S.",
+      "rating": 5,
+      "comment": "Sofa is large and sturdy.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_134",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_414",
+      "userName": "Yara T.",
+      "rating": 4,
+      "comment": "L.Ground color fits the room.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_135",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_415",
+      "userName": "Oliver R.",
+      "rating": 5,
+      "comment": "Very comfortable, ideal for the family.",
+      "createdAt": "2026-01-14T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_136",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_416",
+      "userName": "Brenda M.",
+      "rating": 4,
+      "comment": "Good sofa, a bit heavy.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_137",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_417",
+      "userName": "Ismail N.",
+      "rating": 5,
+      "comment": "Excellent quality, nice fabric.",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_138",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_418",
+      "userName": "Faye F.",
+      "rating": 4,
+      "comment": "Good, but price is slightly high.",
+      "createdAt": "2026-02-04T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_139",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_419",
+      "userName": "Danny A.",
+      "rating": 5,
+      "comment": "Turned out better than expected.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_140",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_420",
+      "userName": "Natalie B.",
+      "rating": 5,
+      "comment": "Put it in the living room, looks gorgeous.",
+      "createdAt": "2026-02-13T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_141",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_421",
+      "userName": "Miro K.",
+      "rating": 4,
+      "comment": "Good product, highly recommend.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_142",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_422",
+      "userName": "Gloria O.",
+      "rating": 5,
+      "comment": "Large and comfortable.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_143",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_423",
+      "userName": "Roy E.",
+      "rating": 5,
+      "comment": "Wonderful sofa, price is fair.",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_144",
+      "productId": "4",
+      "variantId": "4_var_2",
+      "userId": "user_424",
+      "userName": "Sam G.",
+      "rating": 5,
+      "comment": "Absolutely great, highly recommend.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_145",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_425",
+      "userName": "Olivia T.",
+      "rating": 5,
+      "comment": "Moss 784 color is truly one of a kind.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_146",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_426",
+      "userName": "Harry R.",
+      "rating": 5,
+      "comment": "Excellent quality, premium fabric.",
+      "createdAt": "2026-01-15T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_147",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_427",
+      "userName": "Molly M.",
+      "rating": 4,
+      "comment": "Good sofa, wish it had arrived sooner.",
+      "createdAt": "2026-01-22T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_148",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_428",
+      "userName": "Jason N.",
+      "rating": 5,
+      "comment": "Color is exactly as shown in photos.",
+      "createdAt": "2026-01-29T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_149",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_429",
+      "userName": "Diana F.",
+      "rating": 5,
+      "comment": "Ideal for a large family.",
+      "createdAt": "2026-02-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_150",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_430",
+      "userName": "Otto A.",
+      "rating": 5,
+      "comment": "Structure is sturdy, will last a long time.",
+      "createdAt": "2026-02-10T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_151",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_431",
+      "userName": "Zoe B.",
+      "rating": 5,
+      "comment": "Very comfortable and beautiful.",
+      "createdAt": "2026-02-14T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_152",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_432",
+      "userName": "Sam K.",
+      "rating": 4,
+      "comment": "Good product, price is a bit high.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_153",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_433",
+      "userName": "Holly O.",
+      "rating": 5,
+      "comment": "Highly recommend, amazing design.",
+      "createdAt": "2026-02-21T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_154",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_434",
+      "userName": "Fred E.",
+      "rating": 5,
+      "comment": "Best sofa ever!",
+      "createdAt": "2026-02-25T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_155",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_435",
+      "userName": "Nina G.",
+      "rating": 5,
+      "comment": "5/5 for quality and price.",
+      "createdAt": "2026-02-28T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_156",
+      "productId": "4",
+      "variantId": "4_var_3",
+      "userId": "user_436",
+      "userName": "Cal W.",
+      "rating": 5,
+      "comment": "Absolutely love it, will get another one.",
+      "createdAt": "2026-03-02T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_157",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_437",
+      "userName": "Shay T.",
+      "rating": 5,
+      "comment": "Teddy 13 is just as great as Teddy 1.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_158",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_438",
+      "userName": "Murray R.",
+      "rating": 5,
+      "comment": "Large and comfortable sofa.",
+      "createdAt": "2026-01-16T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_159",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_439",
+      "userName": "Laura M.",
+      "rating": 4,
+      "comment": "Good, but assembly was a bit tricky.",
+      "createdAt": "2026-01-23T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_160",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_440",
+      "userName": "Akbar N.",
+      "rating": 5,
+      "comment": "Excellent quality, highly recommend.",
+      "createdAt": "2026-01-30T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_161",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_441",
+      "userName": "Farida F.",
+      "rating": 5,
+      "comment": "Very comfortable and beautiful.",
+      "createdAt": "2026-02-06T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_162",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_442",
+      "userName": "Eldon A.",
+      "rating": 5,
+      "comment": "Color is wonderful, quality is excellent.",
+      "createdAt": "2026-02-11T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_163",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_443",
+      "userName": "Natalie B.",
+      "rating": 5,
+      "comment": "Ideal for the living room.",
+      "createdAt": "2026-02-15T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_164",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_444",
+      "userName": "Isla K.",
+      "rating": 4,
+      "comment": "Good product, price is a bit high.",
+      "createdAt": "2026-02-19T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_165",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_445",
+      "userName": "Gloria O.",
+      "rating": 5,
+      "comment": "Very comfortable, whole family fits.",
+      "createdAt": "2026-02-22T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_166",
+      "productId": "4",
+      "variantId": "4_var_4",
+      "userId": "user_446",
+      "userName": "Abdul E.",
+      "rating": 5,
+      "comment": "Highly recommend!",
+      "createdAt": "2026-02-26T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_167",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_501",
+      "userName": "Zara T.",
+      "rating": 4,
+      "comment": "Moss-996 color is lovely, classic look.",
+      "createdAt": "2026-01-06T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_168",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_502",
+      "userName": "Obid R.",
+      "rating": 4,
+      "comment": "Comfortable chair, ottoman is nice too.",
+      "createdAt": "2026-01-13T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_169",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_503",
+      "userName": "Hilda M.",
+      "rating": 5,
+      "comment": "Mid-century design is very beautiful.",
+      "createdAt": "2026-01-20T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_170",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_504",
+      "userName": "Ralph N.",
+      "rating": 4,
+      "comment": "Good, just a bit firm.",
+      "createdAt": "2026-01-27T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_171",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_505",
+      "userName": "Aziza F.",
+      "rating": 4,
+      "comment": "Looks exactly as shown in the photos.",
+      "createdAt": "2026-02-03T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_172",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_506",
+      "userName": "Said A.",
+      "rating": 5,
+      "comment": "The walnut legs are very beautiful.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_173",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_507",
+      "userName": "Chara B.",
+      "rating": 4,
+      "comment": "Good chair, a bit large.",
+      "createdAt": "2026-02-12T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_174",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_508",
+      "userName": "James K.",
+      "rating": 4,
+      "comment": "Ottoman is comfortable, quality is good.",
+      "createdAt": "2026-02-16T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_175",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_509",
+      "userName": "Maya O.",
+      "rating": 5,
+      "comment": "Modern design, highly recommend.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_176",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_510",
+      "userName": "Dior E.",
+      "rating": 4,
+      "comment": "Good, price is fair.",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_177",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_511",
+      "userName": "Camille G.",
+      "rating": 4,
+      "comment": "Fits the home interior.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_178",
+      "productId": "5",
+      "variantId": "5_var_1",
+      "userId": "user_512",
+      "userName": "Frank W.",
+      "rating": 4,
+      "comment": "Overall good, highly recommend.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_179",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_513",
+      "userName": "Aziz T.",
+      "rating": 4,
+      "comment": "Moss-130 color is calm and soothing.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_180",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_514",
+      "userName": "Nadia R.",
+      "rating": 4,
+      "comment": "Comfortable chair, wish it were a bit softer.",
+      "createdAt": "2026-01-14T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_181",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_515",
+      "userName": "Tim M.",
+      "rating": 4,
+      "comment": "Good quality, price is fair.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_182",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_516",
+      "userName": "Gloria N.",
+      "rating": 4,
+      "comment": "Looks beautiful.",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_183",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_517",
+      "userName": "Nathan F.",
+      "rating": 3,
+      "comment": "Average, a bit below my expectations.",
+      "createdAt": "2026-02-04T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_184",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_518",
+      "userName": "Sophie A.",
+      "rating": 4,
+      "comment": "Good chair, comes with ottoman.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_185",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_519",
+      "userName": "Marcus B.",
+      "rating": 4,
+      "comment": "Overall a good product.",
+      "createdAt": "2026-02-13T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_186",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_520",
+      "userName": "Lena K.",
+      "rating": 4,
+      "comment": "Color is exactly as shown in photos.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_187",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_521",
+      "userName": "Akmal O.",
+      "rating": 4,
+      "comment": "Good, just a bit large.",
+      "createdAt": "2026-02-21T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_188",
+      "productId": "5",
+      "variantId": "5_var_2",
+      "userId": "user_522",
+      "userName": "Diana E.",
+      "rating": 4,
+      "comment": "Comfortable and beautiful.",
+      "createdAt": "2026-02-25T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_189",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_523",
+      "userName": "Nuri T.",
+      "rating": 4,
+      "comment": "MOSS-160 color is great, fits the room.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_190",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_524",
+      "userName": "Molly R.",
+      "rating": 4,
+      "comment": "Good quality, comfortable.",
+      "createdAt": "2026-01-15T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_191",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_525",
+      "userName": "Bax M.",
+      "rating": 5,
+      "comment": "Mid-century design is very original.",
+      "createdAt": "2026-01-22T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_192",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_526",
+      "userName": "Shannon N.",
+      "rating": 4,
+      "comment": "Good chair, highly recommend.",
+      "createdAt": "2026-01-29T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_193",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_527",
+      "userName": "Ian F.",
+      "rating": 3,
+      "comment": "Average, below my expectations.",
+      "createdAt": "2026-02-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_194",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_528",
+      "userName": "Zoe A.",
+      "rating": 4,
+      "comment": "Looks beautiful, good quality.",
+      "createdAt": "2026-02-10T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_195",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_529",
+      "userName": "Owen B.",
+      "rating": 4,
+      "comment": "Comfortable, but assembly was a bit tricky.",
+      "createdAt": "2026-02-14T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_196",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_530",
+      "userName": "Martha K.",
+      "rating": 4,
+      "comment": "Price is fair, quality is good.",
+      "createdAt": "2026-02-18T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_197",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_531",
+      "userName": "Shawn O.",
+      "rating": 4,
+      "comment": "Good product.",
+      "createdAt": "2026-02-21T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_198",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_532",
+      "userName": "Zara E.",
+      "rating": 5,
+      "comment": "Highly recommend, wonderful chair.",
+      "createdAt": "2026-02-25T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_199",
+      "productId": "5",
+      "variantId": "5_var_3",
+      "userId": "user_533",
+      "userName": "Hamza G.",
+      "rating": 4,
+      "comment": "Overall good.",
+      "createdAt": "2026-02-28T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_200",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_534",
+      "userName": "Dawn T.",
+      "rating": 4,
+      "comment": "Moss-784 color is very unique.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_201",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_535",
+      "userName": "Lance R.",
+      "rating": 4,
+      "comment": "Good quality, ottoman is comfortable.",
+      "createdAt": "2026-01-16T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_202",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_536",
+      "userName": "Rebecca M.",
+      "rating": 4,
+      "comment": "Good chair, price is fair.",
+      "createdAt": "2026-01-23T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_203",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_537",
+      "userName": "Sam N.",
+      "rating": 5,
+      "comment": "Beautiful design, excellent quality.",
+      "createdAt": "2026-01-30T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_204",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_538",
+      "userName": "Camille F.",
+      "rating": 4,
+      "comment": "Comfortable and pleasant.",
+      "createdAt": "2026-02-06T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_205",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_539",
+      "userName": "Jake A.",
+      "rating": 4,
+      "comment": "Good product, highly recommend.",
+      "createdAt": "2026-02-11T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_206",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_540",
+      "userName": "Gloria B.",
+      "rating": 3,
+      "comment": "Average, wish it were a bit softer.",
+      "createdAt": "2026-02-15T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_207",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_541",
+      "userName": "Alec K.",
+      "rating": 4,
+      "comment": "Color is exactly as shown in photos.",
+      "createdAt": "2026-02-19T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_208",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_542",
+      "userName": "Brenda O.",
+      "rating": 5,
+      "comment": "Very beautiful and comfortable.",
+      "createdAt": "2026-02-23T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_209",
+      "productId": "5",
+      "variantId": "5_var_4",
+      "userId": "user_543",
+      "userName": "Fred E.",
+      "rating": 4,
+      "comment": "Good chair.",
+      "createdAt": "2026-02-27T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_210",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_601",
+      "userName": "Max T.",
+      "rating": 5,
+      "comment": "7034P color is classic and beautiful.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_211",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_602",
+      "userName": "Sandra R.",
+      "rating": 5,
+      "comment": "Round table, very convenient, great capacity.",
+      "createdAt": "2026-01-10T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_212",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_603",
+      "userName": "Victor M.",
+      "rating": 5,
+      "comment": "Solid oak wood, very sturdy.",
+      "createdAt": "2026-01-15T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_213",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_604",
+      "userName": "Zoe N.",
+      "rating": 5,
+      "comment": "Easy to assemble and disassemble.",
+      "createdAt": "2026-01-20T14:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_214",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_605",
+      "userName": "Sam F.",
+      "rating": 5,
+      "comment": "Ideal table for the kitchen.",
+      "createdAt": "2026-01-25T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_215",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_606",
+      "userName": "Camille A.",
+      "rating": 4,
+      "comment": "Good, just a bit heavy.",
+      "createdAt": "2026-01-30T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_216",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_607",
+      "userName": "Eldon B.",
+      "rating": 5,
+      "comment": "Excellent quality, highly recommend.",
+      "createdAt": "2026-02-04T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_217",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_608",
+      "userName": "Nora K.",
+      "rating": 5,
+      "comment": "Price is fair, quality is high.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_218",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_609",
+      "userName": "Marcus O.",
+      "rating": 5,
+      "comment": "Wonderful table, arrived quickly.",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_219",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_610",
+      "userName": "Frances E.",
+      "rating": 5,
+      "comment": "Collapsible feature is very convenient.",
+      "createdAt": "2026-02-16T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_220",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_611",
+      "userName": "Roy G.",
+      "rating": 5,
+      "comment": "Fits the kitchen perfectly, loved everything.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_221",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_612",
+      "userName": "Diana W.",
+      "rating": 5,
+      "comment": "Highly recommend!",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_222",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_613",
+      "userName": "James S.",
+      "rating": 5,
+      "comment": "Sturdy and beautiful table.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_223",
+      "productId": "6",
+      "variantId": "6_var_1",
+      "userId": "user_614",
+      "userName": "Zoe T.",
+      "rating": 5,
+      "comment": "Ideal for the whole family.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_224",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_615",
+      "userName": "Fred R.",
+      "rating": 5,
+      "comment": "0088P color looks very modern.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_225",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_616",
+      "userName": "Gloria M.",
+      "rating": 4,
+      "comment": "Good table, quality is good.",
+      "createdAt": "2026-01-14T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_226",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_617",
+      "userName": "Shawn N.",
+      "rating": 5,
+      "comment": "Round shape is convenient, no sharp corners.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_227",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_618",
+      "userName": "Mandy F.",
+      "rating": 4,
+      "comment": "Good, but price is a bit high.",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_228",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_619",
+      "userName": "Lance A.",
+      "rating": 5,
+      "comment": "Excellent quality, very convenient.",
+      "createdAt": "2026-02-04T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_229",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_620",
+      "userName": "Ida B.",
+      "rating": 4,
+      "comment": "Collapsible — very handy feature.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_230",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_621",
+      "userName": "Hugh K.",
+      "rating": 5,
+      "comment": "Highly recommend, wonderful table.",
+      "createdAt": "2026-02-13T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_231",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_622",
+      "userName": "Sadie O.",
+      "rating": 4,
+      "comment": "Good product, arrived quickly.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_232",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_623",
+      "userName": "Bax E.",
+      "rating": 5,
+      "comment": "Price is fair, quality is good.",
+      "createdAt": "2026-02-21T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_233",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_624",
+      "userName": "Faye G.",
+      "rating": 5,
+      "comment": "Beautiful table, highly recommend.",
+      "createdAt": "2026-02-25T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_234",
+      "productId": "6",
+      "variantId": "6_var_2",
+      "userId": "user_625",
+      "userName": "Cal W.",
+      "rating": 5,
+      "comment": "Fits the kitchen perfectly.",
+      "createdAt": "2026-02-28T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_235",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_626",
+      "userName": "Nicole T.",
+      "rating": 5,
+      "comment": "4046K color is very warm and natural.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_236",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_627",
+      "userName": "Owen R.",
+      "rating": 5,
+      "comment": "Sturdy table, will last a long time.",
+      "createdAt": "2026-01-15T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_237",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_628",
+      "userName": "Mabel M.",
+      "rating": 4,
+      "comment": "Good, just a bit heavy.",
+      "createdAt": "2026-01-22T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_238",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_629",
+      "userName": "Jason N.",
+      "rating": 5,
+      "comment": "Excellent quality, price is fair.",
+      "createdAt": "2026-01-29T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_239",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_630",
+      "userName": "Aziza F.",
+      "rating": 5,
+      "comment": "Great table for the kitchen.",
+      "createdAt": "2026-02-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_240",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_631",
+      "userName": "Roy A.",
+      "rating": 5,
+      "comment": "Collapsible feature is amazing.",
+      "createdAt": "2026-02-10T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_241",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_632",
+      "userName": "Diana B.",
+      "rating": 5,
+      "comment": "Highly recommend!",
+      "createdAt": "2026-02-14T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_242",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_633",
+      "userName": "Nathan K.",
+      "rating": 4,
+      "comment": "Good table, arrived quickly.",
+      "createdAt": "2026-02-18T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_243",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_634",
+      "userName": "Sam O.",
+      "rating": 5,
+      "comment": "Very sturdy and beautiful.",
+      "createdAt": "2026-02-22T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_244",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_635",
+      "userName": "Holly E.",
+      "rating": 5,
+      "comment": "Will order again.",
+      "createdAt": "2026-02-26T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_245",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_636",
+      "userName": "Victor G.",
+      "rating": 5,
+      "comment": "5/5 for quality and design.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_246",
+      "productId": "6",
+      "variantId": "6_var_3",
+      "userId": "user_637",
+      "userName": "Zoe W.",
+      "rating": 5,
+      "comment": "Wonderful table!",
+      "createdAt": "2026-03-03T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_247",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_701",
+      "userName": "Abdul T.",
+      "rating": 5,
+      "comment": "TLW Bsh color fits the home perfectly.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_248",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_702",
+      "userName": "Molly R.",
+      "rating": 5,
+      "comment": "Platform bed with no headboard — ideal.",
+      "createdAt": "2026-01-10T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_249",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_703",
+      "userName": "James M.",
+      "rating": 5,
+      "comment": "Quality wood slat system, very sturdy.",
+      "createdAt": "2026-01-15T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_250",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_704",
+      "userName": "Zoe N.",
+      "rating": 4,
+      "comment": "Good bed, assembly was a bit tricky.",
+      "createdAt": "2026-01-20T14:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_251",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_705",
+      "userName": "Owen F.",
+      "rating": 5,
+      "comment": "Modern design, excellent quality.",
+      "createdAt": "2026-01-25T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_252",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_706",
+      "userName": "Laura A.",
+      "rating": 5,
+      "comment": "King size — large and very comfortable.",
+      "createdAt": "2026-01-30T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_253",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_707",
+      "userName": "Nuri B.",
+      "rating": 5,
+      "comment": "Headboard fabric is very soft.",
+      "createdAt": "2026-02-04T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_254",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_708",
+      "userName": "Camille K.",
+      "rating": 5,
+      "comment": "Premium bed, price is fair.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_255",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_709",
+      "userName": "Fred O.",
+      "rating": 5,
+      "comment": "Highly recommend, wonderful product.",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_256",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_710",
+      "userName": "Dawn E.",
+      "rating": 5,
+      "comment": "Very sturdy and beautiful.",
+      "createdAt": "2026-02-16T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_257",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_711",
+      "userName": "Ross G.",
+      "rating": 4,
+      "comment": "Good bed, a bit heavy.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_258",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_712",
+      "userName": "Gloria W.",
+      "rating": 5,
+      "comment": "5/5 for quality and price.",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_259",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_713",
+      "userName": "Sadie S.",
+      "rating": 5,
+      "comment": "Best bed ever!",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_260",
+      "productId": "7",
+      "variantId": "7_var_1",
+      "userId": "user_714",
+      "userName": "Dan T.",
+      "rating": 5,
+      "comment": "Very comfortable, delivered quickly.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_261",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_715",
+      "userName": "Monica R.",
+      "rating": 5,
+      "comment": "TDW color is classic and beautiful.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_262",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_716",
+      "userName": "Sam M.",
+      "rating": 4,
+      "comment": "Good bed, price is a bit high.",
+      "createdAt": "2026-01-14T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_263",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_717",
+      "userName": "Holly N.",
+      "rating": 5,
+      "comment": "Excellent quality, very sturdy.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_264",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_718",
+      "userName": "Akbar F.",
+      "rating": 4,
+      "comment": "Good, assembly was a bit difficult.",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_265",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_719",
+      "userName": "Nadia A.",
+      "rating": 5,
+      "comment": "Modern look, very beautiful.",
+      "createdAt": "2026-02-04T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_266",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_720",
+      "userName": "Nathan B.",
+      "rating": 5,
+      "comment": "Headboard fabric is very soft.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_267",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_721",
+      "userName": "Faye K.",
+      "rating": 4,
+      "comment": "Good product, highly recommend.",
+      "createdAt": "2026-02-13T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_268",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_722",
+      "userName": "Victor O.",
+      "rating": 5,
+      "comment": "King size — large and very comfortable.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_269",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_723",
+      "userName": "Shannon E.",
+      "rating": 5,
+      "comment": "Very beautiful bed.",
+      "createdAt": "2026-02-21T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_270",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_724",
+      "userName": "Isla G.",
+      "rating": 4,
+      "comment": "Good, wish it had arrived sooner.",
+      "createdAt": "2026-02-25T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_271",
+      "productId": "7",
+      "variantId": "7_var_2",
+      "userId": "user_725",
+      "userName": "Diana W.",
+      "rating": 5,
+      "comment": "Highly recommend, excellent quality.",
+      "createdAt": "2026-02-28T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_272",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_801",
+      "userName": "Jason K.",
+      "rating": 4,
+      "comment": "DS color looks beautiful on the wall.",
+      "createdAt": "2026-01-06T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_273",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_802",
+      "userName": "Martha T.",
+      "rating": 5,
+      "comment": "Invisible mounting — very convenient.",
+      "createdAt": "2026-01-13T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_274",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_803",
+      "userName": "Sam R.",
+      "rating": 4,
+      "comment": "Good shelf, quality is good.",
+      "createdAt": "2026-01-20T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_275",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_804",
+      "userName": "Nicole M.",
+      "rating": 5,
+      "comment": "Ideal place for my books.",
+      "createdAt": "2026-01-27T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_276",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_805",
+      "userName": "Sam N.",
+      "rating": 4,
+      "comment": "Easy to mount, instructions are clear.",
+      "createdAt": "2026-02-03T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_277",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_806",
+      "userName": "Laura F.",
+      "rating": 5,
+      "comment": "Lacquered surface is very nice.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_278",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_807",
+      "userName": "Otto A.",
+      "rating": 4,
+      "comment": "Good shelf, also great for plants.",
+      "createdAt": "2026-02-12T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_279",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_808",
+      "userName": "Zoe B.",
+      "rating": 4,
+      "comment": "Minimalist design, really liked it.",
+      "createdAt": "2026-02-16T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_280",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_809",
+      "userName": "Marcus K.",
+      "rating": 5,
+      "comment": "Price is fair, quality is good.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_281",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_810",
+      "userName": "Diana O.",
+      "rating": 4,
+      "comment": "Highly recommend.",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_282",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_811",
+      "userName": "Akbar E.",
+      "rating": 5,
+      "comment": "Invisible mounting — great feature.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_283",
+      "productId": "8",
+      "variantId": "8_var_1",
+      "userId": "user_812",
+      "userName": "Rose G.",
+      "rating": 4,
+      "comment": "Good shelf, will get another one.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_284",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_813",
+      "userName": "Tim T.",
+      "rating": 4,
+      "comment": "DB color matches the wall nicely.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_285",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_814",
+      "userName": "Gloria R.",
+      "rating": 4,
+      "comment": "Good quality, but a bit small.",
+      "createdAt": "2026-01-14T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_286",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_815",
+      "userName": "Fred M.",
+      "rating": 4,
+      "comment": "Good shelf, price is fair.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_287",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_816",
+      "userName": "Camille N.",
+      "rating": 4,
+      "comment": "Easy to mount.",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_288",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_817",
+      "userName": "Shawn F.",
+      "rating": 3,
+      "comment": "Average, below my expectations.",
+      "createdAt": "2026-02-04T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_289",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_818",
+      "userName": "Ida A.",
+      "rating": 4,
+      "comment": "Good, price is a bit high.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_290",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_819",
+      "userName": "Oliver B.",
+      "rating": 4,
+      "comment": "Highly recommend.",
+      "createdAt": "2026-02-13T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_291",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_820",
+      "userName": "Nina K.",
+      "rating": 4,
+      "comment": "Good spot for my books.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_292",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_821",
+      "userName": "Hugh O.",
+      "rating": 4,
+      "comment": "Good shelf, minimalist.",
+      "createdAt": "2026-02-21T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_293",
+      "productId": "8",
+      "variantId": "8_var_2",
+      "userId": "user_822",
+      "userName": "Brenda E.",
+      "rating": 5,
+      "comment": "Good quality, highly recommend.",
+      "createdAt": "2026-02-25T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_294",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_823",
+      "userName": "Dave T.",
+      "rating": 4,
+      "comment": "DSan.B color is very unique.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_295",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_824",
+      "userName": "Sevin R.",
+      "rating": 5,
+      "comment": "Lacquered surface is easy to clean.",
+      "createdAt": "2026-01-15T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_296",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_825",
+      "userName": "Marcus M.",
+      "rating": 4,
+      "comment": "Good shelf, quality is good.",
+      "createdAt": "2026-01-22T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_297",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_826",
+      "userName": "Olivia N.",
+      "rating": 4,
+      "comment": "Easy to mount, instructions are clear.",
+      "createdAt": "2026-01-29T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_298",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_827",
+      "userName": "Zach F.",
+      "rating": 4,
+      "comment": "Price is fair.",
+      "createdAt": "2026-02-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_299",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_828",
+      "userName": "Maya A.",
+      "rating": 5,
+      "comment": "Highly recommend, wonderful shelf.",
+      "createdAt": "2026-02-10T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_300",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_829",
+      "userName": "Alec B.",
+      "rating": 4,
+      "comment": "Good, minimalist design.",
+      "createdAt": "2026-02-14T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_301",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_830",
+      "userName": "Camille K.",
+      "rating": 4,
+      "comment": "Invisible mounting — very convenient.",
+      "createdAt": "2026-02-18T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_302",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_831",
+      "userName": "Victor O.",
+      "rating": 4,
+      "comment": "Good shelf, will get another one.",
+      "createdAt": "2026-02-22T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_303",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_832",
+      "userName": "Diana E.",
+      "rating": 5,
+      "comment": "5/5 for quality and design.",
+      "createdAt": "2026-02-26T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_304",
+      "productId": "8",
+      "variantId": "8_var_3",
+      "userId": "user_833",
+      "userName": "Frank G.",
+      "rating": 4,
+      "comment": "Very good.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_305",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_834",
+      "userName": "Shay T.",
+      "rating": 4,
+      "comment": "GK color looks very modern.",
+      "createdAt": "2026-01-09T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_306",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_835",
+      "userName": "Nuri R.",
+      "rating": 4,
+      "comment": "Good quality, price is fair.",
+      "createdAt": "2026-01-16T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_307",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_836",
+      "userName": "Gloria M.",
+      "rating": 4,
+      "comment": "Minimalist design, liked it.",
+      "createdAt": "2026-01-23T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_308",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_837",
+      "userName": "Ian N.",
+      "rating": 3,
+      "comment": "Average, a bit small.",
+      "createdAt": "2026-01-30T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_309",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_838",
+      "userName": "Molly F.",
+      "rating": 4,
+      "comment": "Good shelf, highly recommend.",
+      "createdAt": "2026-02-06T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_310",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_839",
+      "userName": "Jason A.",
+      "rating": 5,
+      "comment": "Invisible mounting is great.",
+      "createdAt": "2026-02-11T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_311",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_840",
+      "userName": "Dawn B.",
+      "rating": 4,
+      "comment": "Good product.",
+      "createdAt": "2026-02-15T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_312",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_841",
+      "userName": "Sam K.",
+      "rating": 4,
+      "comment": "Lacquered surface is beautiful.",
+      "createdAt": "2026-02-19T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_313",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_842",
+      "userName": "Holly O.",
+      "rating": 4,
+      "comment": "Affordable price, good quality.",
+      "createdAt": "2026-02-23T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_314",
+      "productId": "8",
+      "variantId": "8_var_4",
+      "userId": "user_843",
+      "userName": "Eldon E.",
+      "rating": 4,
+      "comment": "Highly recommend.",
+      "createdAt": "2026-02-27T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_315",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_844",
+      "userName": "Faye T.",
+      "rating": 5,
+      "comment": "MDV color is the most beautiful.",
+      "createdAt": "2026-01-10T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_316",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_845",
+      "userName": "Lance R.",
+      "rating": 4,
+      "comment": "Good quality, highly recommend.",
+      "createdAt": "2026-01-17T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_317",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_846",
+      "userName": "Camille M.",
+      "rating": 5,
+      "comment": "Lacquered surface is very durable.",
+      "createdAt": "2026-01-24T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_318",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_847",
+      "userName": "Otto N.",
+      "rating": 4,
+      "comment": "Good shelf, price is fair.",
+      "createdAt": "2026-01-31T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_319",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_848",
+      "userName": "Zoe F.",
+      "rating": 5,
+      "comment": "Invisible mounting — amazing.",
+      "createdAt": "2026-02-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_320",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_849",
+      "userName": "Marcus A.",
+      "rating": 4,
+      "comment": "Good, minimalist design.",
+      "createdAt": "2026-02-12T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_321",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_850",
+      "userName": "Diana B.",
+      "rating": 5,
+      "comment": "Very good shelf.",
+      "createdAt": "2026-02-16T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_322",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_851",
+      "userName": "Nathan K.",
+      "rating": 5,
+      "comment": "Affordable price, high quality.",
+      "createdAt": "2026-02-20T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_323",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_852",
+      "userName": "Aziz O.",
+      "rating": 4,
+      "comment": "Highly recommend.",
+      "createdAt": "2026-02-24T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_324",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_853",
+      "userName": "Rose E.",
+      "rating": 5,
+      "comment": "Wonderful shelf, will get another one.",
+      "createdAt": "2026-02-27T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_325",
+      "productId": "8",
+      "variantId": "8_var_5",
+      "userId": "user_854",
+      "userName": "Sam G.",
+      "rating": 4,
+      "comment": "Good product.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_326",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_901",
+      "userName": "Victor T.",
+      "rating": 5,
+      "comment": "DB color fits the home office perfectly.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_327",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_902",
+      "userName": "Nora R.",
+      "rating": 5,
+      "comment": "Cable management system — excellent.",
+      "createdAt": "2026-01-10T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_328",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_903",
+      "userName": "Elmo M.",
+      "rating": 5,
+      "comment": "Compact but large work surface.",
+      "createdAt": "2026-01-15T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_329",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_904",
+      "userName": "Zoe N.",
+      "rating": 4,
+      "comment": "Good desk, but a bit heavy.",
+      "createdAt": "2026-01-20T14:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_330",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_905",
+      "userName": "Jason F.",
+      "rating": 5,
+      "comment": "Minimalist design, really liked it.",
+      "createdAt": "2026-01-25T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_331",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_906",
+      "userName": "Camille A.",
+      "rating": 5,
+      "comment": "Excellent quality, highly recommend.",
+      "createdAt": "2026-01-30T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_332",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_907",
+      "userName": "Sam B.",
+      "rating": 5,
+      "comment": "My productivity improved with this desk.",
+      "createdAt": "2026-02-04T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_333",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_908",
+      "userName": "Laura K.",
+      "rating": 4,
+      "comment": "Good desk, price is fair.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_334",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_909",
+      "userName": "Marcus O.",
+      "rating": 5,
+      "comment": "Even after long hours, the desk holds up great.",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_335",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_910",
+      "userName": "Dawn E.",
+      "rating": 5,
+      "comment": "Arrived exactly as shown in photos.",
+      "createdAt": "2026-02-16T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_336",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_911",
+      "userName": "Akbar G.",
+      "rating": 5,
+      "comment": "Best work desk ever!",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_337",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_912",
+      "userName": "Gloria W.",
+      "rating": 5,
+      "comment": "Highly recommend.",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_338",
+      "productId": "9",
+      "variantId": "9_var_1",
+      "userId": "user_913",
+      "userName": "Fred S.",
+      "rating": 5,
+      "comment": "Very comfortable and beautiful.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_339",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_914",
+      "userName": "Hilda T.",
+      "rating": 4,
+      "comment": "MDV color fits the home office.",
+      "createdAt": "2026-01-07T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_340",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_915",
+      "userName": "Roy R.",
+      "rating": 4,
+      "comment": "Good quality, price is slightly high.",
+      "createdAt": "2026-01-14T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_341",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_916",
+      "userName": "Zoe M.",
+      "rating": 5,
+      "comment": "Cable management system is amazing.",
+      "createdAt": "2026-01-21T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_342",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_917",
+      "userName": "Akmal N.",
+      "rating": 4,
+      "comment": "Good desk, highly recommend.",
+      "createdAt": "2026-01-28T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_343",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_918",
+      "userName": "Laura F.",
+      "rating": 4,
+      "comment": "Compact, ideal for home use.",
+      "createdAt": "2026-02-04T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_344",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_919",
+      "userName": "Marcus A.",
+      "rating": 5,
+      "comment": "Minimalist design, liked it.",
+      "createdAt": "2026-02-09T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_345",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_920",
+      "userName": "Nora B.",
+      "rating": 4,
+      "comment": "Good product, quality is good.",
+      "createdAt": "2026-02-13T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_346",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_921",
+      "userName": "Dan K.",
+      "rating": 4,
+      "comment": "Price is fair.",
+      "createdAt": "2026-02-17T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_347",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_922",
+      "userName": "Faye O.",
+      "rating": 5,
+      "comment": "Highly recommend.",
+      "createdAt": "2026-02-21T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_348",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_923",
+      "userName": "Sam E.",
+      "rating": 4,
+      "comment": "Good desk, productivity improved.",
+      "createdAt": "2026-02-25T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_349",
+      "productId": "9",
+      "variantId": "9_var_2",
+      "userId": "user_924",
+      "userName": "Camille G.",
+      "rating": 4,
+      "comment": "Very good product.",
+      "createdAt": "2026-02-28T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_350",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_925",
+      "userName": "Owen T.",
+      "rating": 5,
+      "comment": "DS color fits the home office perfectly.",
+      "createdAt": "2026-01-08T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_351",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_926",
+      "userName": "Zara R.",
+      "rating": 5,
+      "comment": "Excellent quality, price is fair.",
+      "createdAt": "2026-01-15T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_352",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_927",
+      "userName": "Murray M.",
+      "rating": 4,
+      "comment": "Good desk, minimalist.",
+      "createdAt": "2026-01-22T09:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_353",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_928",
+      "userName": "Gloria N.",
+      "rating": 5,
+      "comment": "Cable management system is great.",
+      "createdAt": "2026-01-29T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_354",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_929",
+      "userName": "Jason F.",
+      "rating": 5,
+      "comment": "Productivity improved.",
+      "createdAt": "2026-02-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_355",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_930",
+      "userName": "Brenda A.",
+      "rating": 5,
+      "comment": "Highly recommend, wonderful desk.",
+      "createdAt": "2026-02-10T15:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_356",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_931",
+      "userName": "Akbar B.",
+      "rating": 4,
+      "comment": "Good, but a bit heavy.",
+      "createdAt": "2026-02-14T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_357",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_932",
+      "userName": "Camille K.",
+      "rating": 5,
+      "comment": "Compact and convenient.",
+      "createdAt": "2026-02-18T12:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_358",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_933",
+      "userName": "Fred O.",
+      "rating": 5,
+      "comment": "Very good desk.",
+      "createdAt": "2026-02-22T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_359",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_934",
+      "userName": "Laura E.",
+      "rating": 5,
+      "comment": "5/5 for quality and design.",
+      "createdAt": "2026-02-26T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_360",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_935",
+      "userName": "Diana G.",
+      "rating": 4,
+      "comment": "Good product, highly recommend.",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_361",
+      "productId": "9",
+      "variantId": "9_var_3",
+      "userId": "user_936",
+      "userName": "Shawn W.",
+      "rating": 5,
+      "comment": "Best work desk ever!",
+      "createdAt": "2026-03-03T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_362",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1001",
+      "userName": "Aziza T.",
+      "rating": 5,
+      "comment": "DSan.BSH color looks very modern.",
+      "createdAt": "2026-01-05T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_363",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1002",
+      "userName": "Ross R.",
+      "rating": 5,
+      "comment": "Lots of storage space, very convenient.",
+      "createdAt": "2026-01-10T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_364",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1003",
+      "userName": "Diana M.",
+      "rating": 5,
+      "comment": "Cable management system is great.",
+      "createdAt": "2026-01-15T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_365",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1004",
+      "userName": "Sam N.",
+      "rating": 4,
+      "comment": "Good TV stand, but a bit heavy.",
+      "createdAt": "2026-01-20T14:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_366",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1005",
+      "userName": "Camille F.",
+      "rating": 5,
+      "comment": "Fits the living room perfectly, excellent quality.",
+      "createdAt": "2026-01-25T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_367",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1006",
+      "userName": "Murray A.",
+      "rating": 5,
+      "comment": "Modern design, very sturdy.",
+      "createdAt": "2026-01-30T12:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_368",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1007",
+      "userName": "Zoe B.",
+      "rating": 5,
+      "comment": "Easy to assemble, instructions are clear.",
+      "createdAt": "2026-02-04T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_369",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1008",
+      "userName": "Jason K.",
+      "rating": 5,
+      "comment": "Price is fair, highly recommend.",
+      "createdAt": "2026-02-08T15:00:00Z",
+      "verified": false
+    },
+    {
+      "id": "rev_370",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1009",
+      "userName": "Brenda O.",
+      "rating": 5,
+      "comment": "TV stand is great, high quality.",
+      "createdAt": "2026-02-12T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_371",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1010",
+      "userName": "Eldon E.",
+      "rating": 4,
+      "comment": "Good, delivery was just a bit late.",
+      "createdAt": "2026-02-16T13:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_372",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1011",
+      "userName": "Faye G.",
+      "rating": 5,
+      "comment": "Wonderful TV stand, loved everything.",
+      "createdAt": "2026-02-20T10:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_373",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "P_GLv7Kt7pQ",
+      "userName": "Marcus W.",
+      "rating": 5,
+      "comment": "Will order again.",
+      "createdAt": "2026-02-24T14:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_374",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1013",
+      "userName": "Holly S.",
+      "rating": 5,
+      "comment": "5/5 for quality and design.",
+      "createdAt": "2026-02-27T11:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_375",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1014",
+      "userName": "Nathan T.",
+      "rating": 5,
+      "comment": "Best TV stand ever!",
+      "createdAt": "2026-03-01T09:00:00Z",
+      "verified": true
+    },
+    {
+      "id": "rev_376",
+      "productId": "10",
+      "variantId": "10_var_1",
+      "userId": "user_1015",
+      "userName": "Dawn R.",
+      "rating": 5,
+      "comment": "Very convenient and beautiful, highly recommend.",
+      "createdAt": "2026-03-03T14:00:00Z",
+      "verified": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

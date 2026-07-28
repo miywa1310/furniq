@@ -1,0 +1,55 @@
+@import "antd/dist/reset.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Arial,
+    sans-serif;
+  margin: 0;
+}
+
+ul li {
+  list-style: none !important;
+  color: inherit;
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  display: block;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+}
+
+.container {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+  background: #ffffff;
+  box-sizing: border-box;
+}

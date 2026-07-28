@@ -1,0 +1,13 @@
+export { About } from "./About/About";
+export { Auth } from "./Auth/Auth";
+export { Cart } from "./Cart/Cart";
+export { Catalog } from "./Catalog/Catalog";
+export { Checkout } from "./Checkout/Checkout";
+export { FAQ } from "./FAQ/Faq";
+export { Favourites } from "./Favourites/Favourites";
+export { Home } from "./Home/Home";
+export { Login } from "./Login/Login";
+export { Orders } from "./Orders/Orders";
+export { Product } from "./Product/Product";
+export { Profile } from "./Profile/Profile";
+export { Reviews } from "./Reviews/Reviews";
