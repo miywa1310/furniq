@@ -554,10 +554,7 @@
       "seller": "Shop Walker Collection",
       "delivery": "3-5 business days",
       "installment": "50000/month",
-      "tags": [
-        "popular",
-        "sale"
-      ],
+      "tags": ["popular", "sale"],
       "inStock": true,
       "createdAt": "2025-07-31T00:00:00Z",
       "description": "Well-made, great-looking and super comfortable. Our Walker outdoor collection is a customer favorite that checks all the boxes. Built to stand up to the elements, the dining table and chair set is made of rustproof aluminum treated with a durable matte powdercoat finish. Foam-filled seat cushions upholstered in your color choice of stain-resistant Sunbrella fabric layer on comfort.",
@@ -653,10 +650,7 @@
       "seller": "Leonardo Casanova",
       "delivery": "5 business days",
       "installment": "50000/month",
-      "tags": [
-        "popular",
-        "new"
-      ],
+      "tags": ["popular", "new"],
       "inStock": true,
       "createdAt": "2025-11-20T00:00:00Z",
       "description": "A modern classic armchair upholstered in premium beige fabric. Features solid wood legs and high-density foam cushioning for all-day comfort. Perfect for living rooms and reading nooks.",
@@ -738,10 +732,7 @@
       "seller": "Leonardo Casanova",
       "delivery": "5 business days",
       "installment": "50000/month",
-      "tags": [
-        "popular",
-        "installment"
-      ],
+      "tags": ["popular", "installment"],
       "inStock": true,
       "createdAt": "2025-08-01T00:00:00Z",
       "description": "Elegant wooden dresser with a classic tri-fold mirror. Features 6 spacious drawers with dovetail joinery and smooth-glide hardware. Crafted from solid mango wood with a rich walnut finish.",
@@ -779,9 +770,7 @@
       "seller": "AIKO",
       "delivery": "5 business days",
       "installment": "50000/month",
-      "tags": [
-        "popular"
-      ],
+      "tags": ["popular"],
       "inStock": true,
       "createdAt": "2025-11-04T00:00:00Z",
       "description": "Sink into this cloud-like 3-seater sofa upholstered in premium linen blend fabric. Deep seats, plush back cushions and solid kiln-dried wood frame make this sofa as durable as it is beautiful.",
@@ -865,9 +854,7 @@
       "seller": "ComfySel",
       "delivery": "5 business days",
       "installment": "50000/month",
-      "tags": [
-        "new"
-      ],
+      "tags": ["new"],
       "inStock": true,
       "createdAt": "2025-08-08T00:00:00Z",
       "description": "A timeless mid-century design featuring a sculptural wooden base and generously padded seat and back. Includes matching ottoman. Perfect for any modern living space.",
@@ -951,10 +938,7 @@
       "seller": "Leick Home",
       "delivery": "5 business days",
       "installment": "50000/month",
-      "tags": [
-        "sale",
-        "installment"
-      ],
+      "tags": ["sale", "installment"],
       "inStock": true,
       "createdAt": "2025-10-04T00:00:00Z",
       "description": "Solid oak coffee table with clean lines and a natural finish. Features a lower shelf for additional storage. Sustainably sourced wood with a water-resistant coating.",
@@ -1023,10 +1007,7 @@
       "seller": "AIKO",
       "delivery": "7 business days",
       "installment": "50000/month",
-      "tags": [
-        "sale",
-        "installment"
-      ],
+      "tags": ["sale", "installment"],
       "inStock": true,
       "createdAt": "2025-11-28T00:00:00Z",
       "description": "Modern platform bed with an upholstered headboard and solid wood slat system. No box spring needed. Features a low-profile design with clean geometric lines.",
@@ -1078,10 +1059,7 @@
       "seller": "Shop Walker Collection",
       "delivery": "3 business days",
       "installment": "50000/month",
-      "tags": [
-        "new",
-        "installment"
-      ],
+      "tags": ["new", "installment"],
       "inStock": true,
       "createdAt": "2025-10-15T00:00:00Z",
       "description": "Minimalist floating wall shelf with invisible mounting hardware. Crafted from engineered wood with a lacquered finish. Ideal for books, plants and decorative objects.",
@@ -1182,10 +1160,7 @@
       "seller": "AIKO",
       "delivery": "4 business days",
       "installment": "50000/month",
-      "tags": [
-        "new",
-        "popular"
-      ],
+      "tags": ["new", "popular"],
       "inStock": true,
       "createdAt": "2025-08-01T00:00:00Z",
       "description": "Compact minimalist office desk designed for productivity. Clean surface, cable management system, and durable wood finish.",
@@ -1254,10 +1229,7 @@
       "seller": "AIKO",
       "delivery": "5 business days",
       "installment": "50000/month",
-      "tags": [
-        "sale",
-        "popular"
-      ],
+      "tags": ["sale", "popular"],
       "inStock": true,
       "createdAt": "2025-07-31T00:00:00Z",
       "description": "Stylish TV stand with spacious storage compartments and cable management. Perfect for modern living rooms.",
@@ -5424,6 +5396,5 @@
       "createdAt": "2026-03-03T14:00:00Z",
       "verified": false
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
